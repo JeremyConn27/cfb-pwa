@@ -1,8 +1,8 @@
 {
-  "name": "cfb-app",
-  "short_name": "cfb-app",
-  "theme_color": "#111",
-  "background_color": "#fafafa",
+  "name": "CFB Betting",
+  "short_name": "CFB Bet",
+  "theme_color": "#111111",
+  "background_color": "#171717",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
