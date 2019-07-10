@@ -5,11 +5,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './home/home.component';
 import { ScheduleComponent } from './schedule/schedule.component';
 import { DocsComponent } from './docs/docs.component';
+import { HistoryComponent } from './history/history.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
   { path: 'schedule', component: ScheduleComponent},
   { path: 'docs', component: DocsComponent},
+  { path: 'history', component: HistoryComponent},
   { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];
 
