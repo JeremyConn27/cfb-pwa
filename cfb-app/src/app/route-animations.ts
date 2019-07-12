@@ -11,6 +11,7 @@ export const fader =
           width: '100%',
           opacity: 0,
           transform: 'scale(0) translateY(100%)',
+          'will-change': 'transform'
         }),
       ], {optional: true}),
       // Animate the new page in
