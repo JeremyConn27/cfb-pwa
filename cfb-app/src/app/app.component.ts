@@ -7,7 +7,7 @@ import { RouterOutlet, ActivatedRoute} from '@angular/router';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.less'],
   animations: [
-     fader
+     fader,
   ]
 })
 
