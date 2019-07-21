@@ -2,11735 +2,11735 @@ import { Schedule } from './schedule';
 
 export const SCHEDULE: Schedule[] = [
     {
-        "Rk": 1,
-        "Wk": 1,
-        "Date": "Aug 24 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 2,
-        "Wk": 1,
-        "Date": "Aug 24 2019",
-        "Time": "6:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Camping World Stadium - Orlando Florida"
-    },
-    {
-        "Rk": 3,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Alabama State",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 4,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Albany",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 5,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Central Arkansas",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 6,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Florida A&M",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 7,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Florida International",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 8,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Georgia Tech",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 9,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 10,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Morgan State",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 11,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Northern Colorado",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 12,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Robert Morris",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 13,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "South Dakota State",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 14,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "7:30 PM",
-        "Day": "Thu",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 15,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 16,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Utah",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 17,
-        "Wk": 2,
-        "Date": "Aug 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Wagner",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 18,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Broncos Stadium at Mile High - Denver Colorado"
-    },
-    {
-        "Rk": 19,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 20,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 21,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "8:30 PM",
-        "Day": "Fri",
-        "Visitor": "Purdue",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 22,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 23,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 24,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 25,
-        "Wk": 2,
-        "Date": "Aug 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Wisconsin",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 26,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Abilene Christian",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 27,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 28,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Mercedes-Benz Stadium - Atlanta Georgia"
-    },
-    {
-        "Rk": 29,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alcorn State",
-        "Pts": "",
-
-        "Home": "Southern Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 30,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas-Pine Bluff",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 31,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Auburn",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "AT&T Stadium - Arlington Texas"
-    },
-    {
-        "Rk": 32,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Lucas Oil Stadium - Indianapolis Indiana"
-    },
-    {
-        "Rk": 33,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "TIAA Bank Field - Jacksonville Florida"
-    },
-    {
-        "Rk": 34,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bucknell",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 35,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California-Davis",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 36,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Campbell",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 37,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colgate",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 38,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 39,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Tennessee State",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 40,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 41,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Washington",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 42,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 43,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 44,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Gardner-Webb",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 45,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 46,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 47,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 48,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "7:00 PM",
-        "Day": "Sat",
-        "Visitor": "Grambling State",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 49,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Holy Cross",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 50,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Houston Baptist",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 51,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Howard",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 52,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Idaho",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 53,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois State",
-        "Pts": "",
-
-        "Home": "Northern Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 54,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Incarnate Word",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 55,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana State",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 56,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "James Madison",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 57,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Mercedes-Benz Stadium - Atlanta Georgia"
-    },
-    {
-        "Rk": 58,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 59,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 60,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 61,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 62,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "6:30 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 63,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Monmouth",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 64,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Montana State",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 65,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 66,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nicholls State",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 67,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Norfolk State",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 68,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Bank of America Stadium - Charlotte North Carolina"
-    },
-    {
-        "Rk": 69,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Iowa",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 70,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 71,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Portland State",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 72,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rhode Island",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 73,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Sam Houston State",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 74,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 75,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 76,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Utah",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 77,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stephen F. Austin",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 78,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 79,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 80,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 81,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Military Institute",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 82,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Tech",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 83,
-        "Wk": 2,
-        "Date": "Aug 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Weber State",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 84,
-        "Wk": 2,
-        "Date": "Sep 1 2019",
-        "Time": "6:30 PM",
-        "Day": "Sun",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 85,
-        "Wk": 2,
-        "Date": "Sep 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Mon",
-        "Visitor": "Notre Dame",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 86,
-        "Wk": 3,
-        "Date": "Sep 6 2019",
-        "Time": "8:00 PM",
-        "Day": "Fri",
-        "Visitor": "Marshall",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 87,
-        "Wk": 3,
-        "Date": "Sep 6 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Sacramento State",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 88,
-        "Wk": 3,
-        "Date": "Sep 6 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "William & Mary",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 89,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 90,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 91,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 92,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 93,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 94,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 95,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 96,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 97,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 98,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 99,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charleston Southern",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 100,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 101,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 102,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 103,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Illinois",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 104,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Kentucky",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 105,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 106,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fordham",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 107,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Furman",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 108,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Gardner-Webb",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 109,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Grambling State",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 110,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 111,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Jackson State",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 112,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kennesaw State",
-        "Pts": "",
-
-        "Home": "Kent State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 113,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 114,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana State",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 115,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 116,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maine",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 117,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "McNeese State",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 118,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (FL)",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 119,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "Minnesota",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 120,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Murray State",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 121,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nebraska",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 122,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 123,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 124,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina A&T",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 125,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 126,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Arizona",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 127,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Colorado",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 128,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 129,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 130,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 131,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 132,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Prairie View A&M",
-        "Pts": "",
-
-        "Home": "Houston",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 133,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Richmond",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 134,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rutgers",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 135,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 136,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Dakota",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 137,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Florida",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 138,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 139,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Illinois",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 140,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 141,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stanford",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 142,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stony Brook",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 143,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 144,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee State",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 145,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee Tech",
-        "Pts": "",
-
-        "Home": "Miami (OH)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 146,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee-Martin",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 147,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas A&M",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 148,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 149,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 150,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 151,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 152,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Vanderbilt",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 153,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wake Forest",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 154,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 155,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Carolina",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 156,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Illinois",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 157,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Kentucky",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 158,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 159,
-        "Wk": 3,
-        "Date": "Sep 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 160,
-        "Wk": 4,
-        "Date": "Sep 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 161,
-        "Wk": 4,
-        "Date": "Sep 13 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "NRG Stadium - Houston Texas"
-    },
-    {
-        "Rk": 162,
-        "Wk": 4,
-        "Date": "Sep 13 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Kansas",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 163,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 164,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 165,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 166,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona State",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 167,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 168,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 169,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bethune-Cookman",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 170,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 171,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cal Poly",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 172,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Chattanooga",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 173,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Citadel",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 174,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Clemson",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 175,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado State",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 176,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Duke",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 177,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 178,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 179,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 180,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 181,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida State",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 182,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Furman",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 183,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 184,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 185,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hawaii",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 186,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Idaho",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 187,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Idaho State",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 188,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 189,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas State",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 190,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 191,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Lamar",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 192,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 193,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Nissan Stadium - Nashville Tennessee"
-    },
-    {
-        "Rk": 194,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 195,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 196,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 197,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 198,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri State",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 199,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Montana",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 200,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Murray State",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 201,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 202,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Hampshire",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 203,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 204,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Norfolk State",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 205,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina State",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 206,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 207,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 208,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern State",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 209,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 210,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio State",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 211,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 212,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 213,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Pittsburgh",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 214,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Portland State",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 215,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "NRG Stadium - Houston Texas"
-    },
-    {
-        "Rk": 216,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "New Mexico State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 217,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Carolina State",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 218,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southeast Missouri State",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 219,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southeastern Louisiana",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 220,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 221,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 222,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stanford",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 223,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 224,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Southern",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 225,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 226,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 227,
-        "Wk": 4,
-        "Date": "Sep 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Weber State",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 228,
-        "Wk": 5,
-        "Date": "Sep 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 229,
-        "Wk": 5,
-        "Date": "Sep 20 2019",
-        "Time": "9:00 PM",
-        "Day": "Fri",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 230,
-        "Wk": 5,
-        "Date": "Sep 20 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Utah",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 231,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 232,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Auburn",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 233,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 234,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Baylor",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 235,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 236,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Kent State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 237,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 238,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Arkansas",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 239,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Connecticut State",
-        "Pts": "",
-
-        "Home": "Eastern Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 240,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 241,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 242,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 243,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 244,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 245,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 246,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Elon",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 247,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida International",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 248,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 249,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hampton",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 250,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kentucky",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 251,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 252,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana State",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 253,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 254,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 255,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 256,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 257,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan State",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 258,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Morgan State",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 259,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nebraska",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 260,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 261,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 262,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Notre Dame",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 263,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 264,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 265,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 266,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Sacramento State",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 267,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 268,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 269,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Carolina",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 270,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Illinois",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 271,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 272,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 273,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Temple",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 274,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 275,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 276,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 277,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 278,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 279,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "10:30 PM",
-        "Day": "Sat",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 280,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wagner",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 281,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 282,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 283,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 284,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "William & Mary",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 285,
-        "Wk": 5,
-        "Date": "Sep 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 286,
-        "Wk": 6,
-        "Date": "Sep 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Navy",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 287,
-        "Wk": 6,
-        "Date": "Sep 27 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Arizona State",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 288,
-        "Wk": 6,
-        "Date": "Sep 27 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Duke",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 289,
-        "Wk": 6,
-        "Date": "Sep 27 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Penn State",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 290,
-        "Wk": 6,
-        "Date": "Sep 27 2019",
-        "Time": "7:00 PM",
-        "Day": "Fri",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 291,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 292,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 293,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "AT&T Stadium - Arlington Texas"
-    },
-    {
-        "Rk": 294,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 295,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 296,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Miami (OH)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 297,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 298,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 299,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Clemson",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 300,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 301,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "6:30 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado State",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 302,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 303,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Delaware",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 304,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 305,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 306,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "New Mexico State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 307,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Tech",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 308,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hawaii",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 309,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Holy Cross",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 310,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 311,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 312,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa State",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 313,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 314,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas State",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 315,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kentucky",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 316,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 317,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 318,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 319,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Minnesota",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 320,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 321,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi State",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 322,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 323,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 324,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nicholls State",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 325,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina State",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 326,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 327,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 328,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio State",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 329,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rutgers",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 330,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 331,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 332,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 333,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stanford",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 334,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 335,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "Southern Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 336,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Towson",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 337,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 338,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 339,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wake Forest",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 340,
-        "Wk": 6,
-        "Date": "Sep 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington State",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 341,
-        "Wk": 7,
-        "Date": "Oct 3 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 342,
-        "Wk": 7,
-        "Date": "Oct 3 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Temple",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 343,
-        "Wk": 7,
-        "Date": "Oct 4 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 344,
-        "Wk": 7,
-        "Date": "Oct 4 2019",
-        "Time": "9:00 PM",
-        "Day": "Fri",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 345,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 346,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 347,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 348,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Auburn",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 349,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "Northern Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 350,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Baylor",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 351,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 352,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 353,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 354,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 355,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 356,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 357,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 358,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 359,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 360,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "New Mexico State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 361,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Marshall",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 362,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 363,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 364,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 365,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan State",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 366,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 367,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 368,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 369,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 370,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 371,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 372,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Pittsburgh",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 373,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Purdue",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 374,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 375,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 376,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Florida",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 377,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 378,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 379,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 380,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 381,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 382,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 383,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 384,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Vanderbilt",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 385,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Tech",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 386,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 387,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Kentucky",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 388,
-        "Wk": 7,
-        "Date": "Oct 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 389,
-        "Wk": 8,
-        "Date": "Oct 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 390,
-        "Wk": 8,
-        "Date": "Oct 10 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 391,
-        "Wk": 8,
-        "Date": "Oct 10 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 392,
-        "Wk": 8,
-        "Date": "Oct 11 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 393,
-        "Wk": 8,
-        "Date": "Oct 11 2019",
-        "Time": "7:00 PM",
-        "Day": "Fri",
-        "Visitor": "Colorado State",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 394,
-        "Wk": 8,
-        "Date": "Oct 11 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Virginia",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 395,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 396,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 397,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 398,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 399,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "Eastern Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 400,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 401,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 402,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "Houston",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 403,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 404,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 405,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida State",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 406,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "6:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 407,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 408,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Tech",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 409,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hawaii",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 410,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa State",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 411,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 412,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 413,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 414,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 415,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 416,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 417,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 418,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan State",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 419,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 420,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 421,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi State",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 422,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Navy",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 423,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nebraska",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 424,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 425,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 426,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "Southern Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 427,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 428,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "Cotton Bowl - Dallas Texas"
-    },
-    {
-        "Rk": 429,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 430,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Penn State",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 431,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rhode Island",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 432,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rutgers",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 433,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 434,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Carolina",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 435,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 436,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 437,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 438,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 439,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 440,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington State",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 441,
-        "Wk": 8,
-        "Date": "Oct 12 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 442,
-        "Wk": 9,
-        "Date": "Oct 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 443,
-        "Wk": 9,
-        "Date": "Oct 17 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 444,
-        "Wk": 9,
-        "Date": "Oct 17 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 445,
-        "Wk": 9,
-        "Date": "Oct 18 2019",
-        "Time": "9:00 PM",
-        "Day": "Fri",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 446,
-        "Wk": 9,
-        "Date": "Oct 18 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Ohio State",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 447,
-        "Wk": 9,
-        "Date": "Oct 18 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Pittsburgh",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 448,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "10:00 PM",
-        "Day": "Sat",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 449,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 450,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona State",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 451,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 452,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Auburn",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 453,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Baylor",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 454,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 455,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 456,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 457,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 458,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Clemson",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 459,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 460,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 461,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Duke",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 462,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 463,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 464,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida State",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 465,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Tech",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 466,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 467,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 468,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa State",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 469,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 470,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 471,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kentucky",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 472,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana State",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 473,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 474,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maine",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 475,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Marshall",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 476,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 477,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 478,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Minnesota",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 479,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 480,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 481,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 482,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 483,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina State",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 484,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Miami (OH)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 485,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 486,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 487,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 488,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Purdue",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 489,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 490,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 491,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Florida",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 492,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 493,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Temple",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 494,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 495,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas A&M",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 496,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 497,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 498,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 499,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 500,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 501,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 502,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Eastern Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 503,
-        "Wk": 9,
-        "Date": "Oct 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wisconsin",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 504,
-        "Wk": 10,
-        "Date": "Oct 24 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "Houston",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 505,
-        "Wk": 10,
-        "Date": "Oct 25 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 506,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Northern Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 507,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 508,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 509,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona State",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 510,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 511,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Auburn",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 512,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 513,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 514,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 515,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 516,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 517,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado State",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 518,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 519,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Duke",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 520,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 521,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 522,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida International",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 523,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hawaii",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 524,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 525,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 526,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 527,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 528,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 529,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 530,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 531,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (FL)",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 532,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Kent State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 533,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi State",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 534,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 535,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 536,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 537,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 538,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Notre Dame",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 539,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 540,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 541,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 542,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Penn State",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 543,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 544,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 545,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Carolina",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 546,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Florida",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 547,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 548,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 549,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 550,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 551,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 552,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 553,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 554,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 555,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 556,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington State",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 557,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Kentucky",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 558,
-        "Wk": 10,
-        "Date": "Oct 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wisconsin",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 559,
-        "Wk": 11,
-        "Date": "Oct 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 560,
-        "Wk": 11,
-        "Date": "Oct 31 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 561,
-        "Wk": 11,
-        "Date": "Nov 1 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Navy",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 562,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 563,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 564,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 565,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "2:30 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 566,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "9:30 PM",
-        "Day": "Sat",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 567,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 568,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 569,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Eastern Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 570,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 571,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 572,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": "TIAA Bank Field - Jacksonville Florida"
-    },
-    {
-        "Rk": 573,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 574,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 575,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 576,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas State",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 577,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 578,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Marshall",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 579,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (FL)",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 580,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 581,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 582,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 583,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mississippi State",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 584,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nebraska",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 585,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 586,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 587,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina State",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 588,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 589,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 590,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 591,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 592,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 593,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Pittsburgh",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 594,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rutgers",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 595,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 596,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 597,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 598,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 599,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 600,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 601,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 602,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 603,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Vanderbilt",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 604,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 605,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Tech",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 606,
-        "Wk": 11,
-        "Date": "Nov 2 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wofford",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 607,
-        "Wk": 12,
-        "Date": "Nov 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "Western Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 608,
-        "Wk": 12,
-        "Date": "Nov 5 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 609,
-        "Wk": 12,
-        "Date": "Nov 6 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 610,
-        "Wk": 12,
-        "Date": "Nov 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 611,
-        "Wk": 12,
-        "Date": "Nov 7 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Temple",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 612,
-        "Wk": 12,
-        "Date": "Nov 8 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 613,
-        "Wk": 12,
-        "Date": "Nov 8 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Washington",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 614,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 615,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "Southern Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 616,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 617,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Baylor",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 618,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 619,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Clemson",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 620,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 621,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 622,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida International",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 623,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida State",
-        "Pts": "",
-
-        "Home": "Boston College",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 624,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 625,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 626,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Tech",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 627,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 628,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 629,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa State",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 630,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas State",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 631,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 632,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana State",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 633,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "Miami (FL)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 634,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 635,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 636,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 637,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 638,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 639,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 640,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Notre Dame",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 641,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Penn State",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 642,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Purdue",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 643,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 644,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 645,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 646,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stanford",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 647,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 648,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 649,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 650,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "7:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 651,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Vanderbilt",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 652,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wake Forest",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 653,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington State",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 654,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Kentucky",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 655,
-        "Wk": 12,
-        "Date": "Nov 9 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 656,
-        "Wk": 13,
-        "Date": "Nov 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 657,
-        "Wk": 13,
-        "Date": "Nov 12 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Ohio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 658,
-        "Wk": 13,
-        "Date": "Nov 13 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Miami (OH)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 659,
-        "Wk": 13,
-        "Date": "Nov 13 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Northern Illinois",
-        "Pts": "",
-
-        "Home": "Toledo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 660,
-        "Wk": 13,
-        "Date": "Nov 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Buffalo",
-        "Pts": "",
-
-        "Home": "Kent State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 661,
-        "Wk": 13,
-        "Date": "Nov 14 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 662,
-        "Wk": 13,
-        "Date": "Nov 15 2019",
-        "Time": "9:30 PM",
-        "Day": "Fri",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 663,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Air Force",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 664,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 665,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama State",
-        "Pts": "",
-
-        "Home": "Florida State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 666,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 667,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 668,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arizona State",
-        "Pts": "",
-
-        "Home": "Oregon State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 669,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Michigan",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 670,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 671,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 672,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 673,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 674,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Hawaii",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 675,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Idaho State",
-        "Pts": "",
-
-        "Home": "Brigham Young",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 676,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Incarnate Word",
-        "Pts": "",
-
-        "Home": "New Mexico State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 677,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 678,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 679,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kentucky",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 680,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 681,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana State",
-        "Pts": "",
-
-        "Home": "Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 682,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 683,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 684,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 685,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Massachusetts",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 686,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "Houston",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 687,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan State",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 688,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Minnesota",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 689,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Navy",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 690,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico",
-        "Pts": "",
-
-        "Home": "Boise State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 691,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio State",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 692,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 693,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 694,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Carolina",
-        "Pts": "",
-
-        "Home": "Texas A&M",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 695,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern California",
-        "Pts": "",
-
-        "Home": "California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 696,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 697,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Stanford",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 698,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 699,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 700,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 701,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 702,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Texas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 703,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 704,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 705,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Military Institute",
-        "Pts": "",
-
-        "Home": "Army",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 706,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Virginia Tech",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 707,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wake Forest",
-        "Pts": "",
-
-        "Home": "Clemson",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 708,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 709,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wisconsin",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 710,
-        "Wk": 13,
-        "Date": "Nov 16 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 711,
-        "Wk": 14,
-        "Date": "Nov 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Eastern Michigan",
-        "Pts": "",
-
-        "Home": "Northern Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 712,
-        "Wk": 14,
-        "Date": "Nov 19 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Bowling Green State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 713,
-        "Wk": 14,
-        "Date": "Nov 20 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Akron",
-        "Pts": "",
-
-        "Home": "Miami (OH)",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 714,
-        "Wk": 14,
-        "Date": "Nov 20 2019",
-        "Time": "12:00 PM",
-        "Day": "Wed",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 715,
-        "Wk": 14,
-        "Date": "Nov 21 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "North Carolina State",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 716,
-        "Wk": 14,
-        "Date": "Nov 22 2019",
-        "Time": "9:30 PM",
-        "Day": "Fri",
-        "Visitor": "Colorado State",
-        "Pts": "",
-
-        "Home": "Wyoming",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 717,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Abilene Christian",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 718,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 719,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ball State",
-        "Pts": "",
-
-        "Home": "Kent State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 720,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "10:30 PM",
-        "Day": "Sat",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "Utah State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 721,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Notre Dame",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 722,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "Massachusetts",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 723,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 724,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Central Florida",
-        "Pts": "",
-
-        "Home": "Tulane",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 725,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Coastal Carolina",
-        "Pts": "",
-
-        "Home": "Louisiana-Monroe",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 726,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Duke",
-        "Pts": "",
-
-        "Home": "Wake Forest",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 727,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Carolina",
-        "Pts": "",
-
-        "Home": "Connecticut",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 728,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "East Tennessee State",
-        "Pts": "",
-
-        "Home": "Vanderbilt",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 729,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida Atlantic",
-        "Pts": "",
-
-        "Home": "Texas-San Antonio",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 730,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia Southern",
-        "Pts": "",
-
-        "Home": "Arkansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 731,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Houston",
-        "Pts": "",
-
-        "Home": "Tulsa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 732,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Illinois",
-        "Pts": "",
-
-        "Home": "Iowa",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 733,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas",
-        "Pts": "",
-
-        "Home": "Iowa State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 734,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Kansas State",
-        "Pts": "",
-
-        "Home": "Texas Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 735,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Liberty",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 736,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana Tech",
-        "Pts": "",
-
-        "Home": "Alabama-Birmingham",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 737,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Marshall",
-        "Pts": "",
-
-        "Home": "Charlotte",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 738,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Memphis",
-        "Pts": "",
-
-        "Home": "South Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 739,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Mercer",
-        "Pts": "",
-
-        "Home": "North Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 740,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (FL)",
-        "Pts": "",
-
-        "Home": "Florida International",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 741,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan",
-        "Pts": "",
-
-        "Home": "Indiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 742,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Michigan State",
-        "Pts": "",
-
-        "Home": "Rutgers",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 743,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Minnesota",
-        "Pts": "",
-
-        "Home": "Northwestern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 744,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nebraska",
-        "Pts": "",
-
-        "Home": "Maryland",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 745,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada",
-        "Pts": "",
-
-        "Home": "Fresno State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 746,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Texas",
-        "Pts": "",
-
-        "Home": "Rice",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 747,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma State",
-        "Pts": "",
-
-        "Home": "West Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 748,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Old Dominion",
-        "Pts": "",
-
-        "Home": "Middle Tennessee State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 749,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 750,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "Washington State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 751,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Penn State",
-        "Pts": "",
-
-        "Home": "Ohio State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 752,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Pittsburgh",
-        "Pts": "",
-
-        "Home": "Virginia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 753,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Purdue",
-        "Pts": "",
-
-        "Home": "Wisconsin",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 754,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Samford",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 755,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Diego State",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 756,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "San Jose State",
-        "Pts": "",
-
-        "Home": "Nevada-Las Vegas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 757,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "South Alabama",
-        "Pts": "",
-
-        "Home": "Georgia State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 758,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Methodist",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 759,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Syracuse",
-        "Pts": "",
-
-        "Home": "Louisville",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 760,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Temple",
-        "Pts": "",
-
-        "Home": "Cincinnati",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 761,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee",
-        "Pts": "",
-
-        "Home": "Missouri",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 762,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tennessee-Martin",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 763,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas",
-        "Pts": "",
-
-        "Home": "Baylor",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 764,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas A&M",
-        "Pts": "",
-
-        "Home": "Georgia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 765,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas Christian",
-        "Pts": "",
-
-        "Home": "Oklahoma",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 766,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Appalachian State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 767,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-El Paso",
-        "Pts": "",
-
-        "Home": "New Mexico State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 768,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Troy",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 769,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "UCLA",
-        "Pts": "",
-
-        "Home": "Southern California",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 770,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah",
-        "Pts": "",
-
-        "Home": "Arizona",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 771,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Washington",
-        "Pts": "",
-
-        "Home": "Colorado",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 772,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Carolina",
-        "Pts": "",
-
-        "Home": "Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 773,
-        "Wk": 14,
-        "Date": "Nov 23 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Western Kentucky",
-        "Pts": "",
-
-        "Home": "Southern Mississippi",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 774,
-        "Wk": 15,
-        "Date": "Nov 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Ohio",
-        "Pts": "",
-
-        "Home": "Akron",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 775,
-        "Wk": 15,
-        "Date": "Nov 26 2019",
-        "Time": "12:00 PM",
-        "Day": "Tue",
-        "Visitor": "Western Michigan",
-        "Pts": "",
-
-        "Home": "Northern Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 776,
-        "Wk": 15,
-        "Date": "Nov 28 2019",
-        "Time": "12:00 PM",
-        "Day": "Thu",
-        "Visitor": "Mississippi",
-        "Pts": "",
-
-        "Home": "Mississippi State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 777,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Arizona",
-        "Pts": "",
-
-        "Home": "Arizona State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 778,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "3:30 PM",
-        "Day": "Fri",
-        "Visitor": "Boise State",
-        "Pts": "",
-
-        "Home": "Colorado State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 779,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Bowling Green State",
-        "Pts": "",
-
-        "Home": "Buffalo",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 780,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Cincinnati",
-        "Pts": "",
-
-        "Home": "Memphis",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 781,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Iowa",
-        "Pts": "",
-
-        "Home": "Nebraska",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 782,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Kent State",
-        "Pts": "",
-
-        "Home": "Eastern Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 783,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Miami (OH)",
-        "Pts": "",
-
-        "Home": "Ball State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 784,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "South Florida",
-        "Pts": "",
-
-        "Home": "Central Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 785,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Texas Tech",
-        "Pts": "",
-
-        "Home": "Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 786,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Toledo",
-        "Pts": "",
-
-        "Home": "Central Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 787,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Virginia Tech",
-        "Pts": "",
-
-        "Home": "Virginia",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 788,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "Washington State",
-        "Pts": "",
-
-        "Home": "Washington",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 789,
-        "Wk": 15,
-        "Date": "Nov 29 2019",
-        "Time": "12:00 PM",
-        "Day": "Fri",
-        "Visitor": "West Virginia",
-        "Pts": "",
-
-        "Home": "Texas Christian",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 790,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama",
-        "Pts": "",
-
-        "Home": "Auburn",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 791,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Alabama-Birmingham",
-        "Pts": "",
-
-        "Home": "North Texas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 792,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Appalachian State",
-        "Pts": "",
-
-        "Home": "Troy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 793,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Arkansas State",
-        "Pts": "",
-
-        "Home": "South Alabama",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 794,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "11:59 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Hawaii",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 795,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Baylor",
-        "Pts": "",
-
-        "Home": "Kansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 796,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Boston College",
-        "Pts": "",
-
-        "Home": "Pittsburgh",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 797,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "9:00 PM",
-        "Day": "Sat",
-        "Visitor": "Brigham Young",
-        "Pts": "",
-
-        "Home": "San Diego State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 798,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "California",
-        "Pts": "",
-
-        "Home": "UCLA",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 799,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Charlotte",
-        "Pts": "",
-
-        "Home": "Old Dominion",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 800,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Clemson",
-        "Pts": "",
-
-        "Home": "South Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 801,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Colorado",
-        "Pts": "",
-
-        "Home": "Utah",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 802,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Connecticut",
-        "Pts": "",
-
-        "Home": "Temple",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 803,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida International",
-        "Pts": "",
-
-        "Home": "Marshall",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 804,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Florida State",
-        "Pts": "",
-
-        "Home": "Florida",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 805,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Fresno State",
-        "Pts": "",
-
-        "Home": "San Jose State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 806,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia",
-        "Pts": "",
-
-        "Home": "Georgia Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 807,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Georgia State",
-        "Pts": "",
-
-        "Home": "Georgia Southern",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 808,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Indiana",
-        "Pts": "",
-
-        "Home": "Purdue",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 809,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Iowa State",
-        "Pts": "",
-
-        "Home": "Kansas State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 810,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisiana-Monroe",
-        "Pts": "",
-
-        "Home": "Louisiana",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 811,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Louisville",
-        "Pts": "",
-
-        "Home": "Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 812,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Maryland",
-        "Pts": "",
-
-        "Home": "Michigan State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 813,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Miami (FL)",
-        "Pts": "",
-
-        "Home": "Duke",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 814,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Middle Tennessee State",
-        "Pts": "",
-
-        "Home": "Western Kentucky",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 815,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Missouri",
-        "Pts": "",
-
-        "Home": "Arkansas",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 816,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Navy",
-        "Pts": "",
-
-        "Home": "Houston",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 817,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Nevada-Las Vegas",
-        "Pts": "",
-
-        "Home": "Nevada",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 818,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "New Mexico State",
-        "Pts": "",
-
-        "Home": "Liberty",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 819,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "North Carolina",
-        "Pts": "",
-
-        "Home": "North Carolina State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 820,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Northwestern",
-        "Pts": "",
-
-        "Home": "Illinois",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 821,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Notre Dame",
-        "Pts": "",
-
-        "Home": "Stanford",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 822,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Ohio State",
-        "Pts": "",
-
-        "Home": "Michigan",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 823,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oklahoma",
-        "Pts": "",
-
-        "Home": "Oklahoma State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 824,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Oregon State",
-        "Pts": "",
-
-        "Home": "Oregon",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 825,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rice",
-        "Pts": "",
-
-        "Home": "Texas-El Paso",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 826,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Rutgers",
-        "Pts": "",
-
-        "Home": "Penn State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 827,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Southern Mississippi",
-        "Pts": "",
-
-        "Home": "Florida Atlantic",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 828,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas A&M",
-        "Pts": "",
-
-        "Home": "Louisiana State",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 829,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas State",
-        "Pts": "",
-
-        "Home": "Coastal Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 830,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Texas-San Antonio",
-        "Pts": "",
-
-        "Home": "Louisiana Tech",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 831,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulane",
-        "Pts": "",
-
-        "Home": "Southern Methodist",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 832,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Tulsa",
-        "Pts": "",
-
-        "Home": "East Carolina",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 833,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Utah State",
-        "Pts": "",
-
-        "Home": "New Mexico",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 834,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Vanderbilt",
-        "Pts": "",
-
-        "Home": "Tennessee",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 835,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wake Forest",
-        "Pts": "",
-
-        "Home": "Syracuse",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 836,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wisconsin",
-        "Pts": "",
-
-        "Home": "Minnesota",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 837,
-        "Wk": 15,
-        "Date": "Nov 30 2019",
-        "Time": "12:00 PM",
-        "Day": "Sat",
-        "Visitor": "Wyoming",
-        "Pts": "",
-
-        "Home": "Air Force",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
-    },
-    {
-        "Rk": 838,
-        "Wk": 16,
-        "Date": "Dec 14 2019",
-        "Time": "3:00 PM",
-        "Day": "Sat",
-        "Visitor": "Army",
-        "Pts": "",
-
-        "Home": "Navy",
-        "Pts__1": "",
-        "TV": "",
-        "Notes": ""
+        "rk": 1,
+        "wk": 1,
+        "date": "Aug 24 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 2,
+        "wk": 1,
+        "date": "Aug 24 2019",
+        "time": "6:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Camping World Stadium - Orlando Florida"
+    },
+    {
+        "rk": 3,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Alabama State",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 4,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Albany",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 5,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Central Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 6,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Florida A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 7,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Florida International",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 8,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Georgia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 9,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 10,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Morgan State",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 11,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Northern Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 12,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Robert Morris",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 13,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "South Dakota State",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 14,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "7:30 PM",
+        "day": "Thu",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 15,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 16,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 17,
+        "wk": 2,
+        "date": "Aug 29 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Wagner",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 18,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Broncos Stadium at Mile High - Denver Colorado"
+    },
+    {
+        "rk": 19,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 20,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 21,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "8:30 PM",
+        "day": "Fri",
+        "awayTeam": "Purdue",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 22,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 23,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 24,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 25,
+        "wk": 2,
+        "date": "Aug 30 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Wisconsin",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 26,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Abilene Christian",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 27,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 28,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Mercedes-Benz Stadium - Atlanta Georgia"
+    },
+    {
+        "rk": 29,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alcorn State",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 30,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas-Pine Bluff",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 31,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Auburn",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "AT&T Stadium - Arlington Texas"
+    },
+    {
+        "rk": 32,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Lucas Oil Stadium - Indianapolis Indiana"
+    },
+    {
+        "rk": 33,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "TIAA Bank Field - Jacksonville Florida"
+    },
+    {
+        "rk": 34,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bucknell",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 35,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California-Davis",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 36,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Campbell",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 37,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colgate",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 38,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 39,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 40,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 41,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 42,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 43,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 44,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Gardner-Webb",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 45,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 46,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 47,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 48,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "7:00 PM",
+        "day": "Sat",
+        "awayTeam": "Grambling State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 49,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Holy Cross",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 50,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Houston Baptist",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 51,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Howard",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 52,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Idaho",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 53,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois State",
+        "ptsHome": "",
+
+        "homeTeam": "Northern Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 54,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Incarnate Word",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 55,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 56,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "James Madison",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 57,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Mercedes-Benz Stadium - Atlanta Georgia"
+    },
+    {
+        "rk": 58,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 59,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 60,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 61,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 62,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "6:30 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 63,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Monmouth",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 64,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Montana State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 65,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 66,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nicholls State",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 67,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Norfolk State",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 68,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Bank of America Stadium - Charlotte North Carolina"
+    },
+    {
+        "rk": 69,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 70,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 71,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Portland State",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 72,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rhode Island",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 73,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Sam Houston State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 74,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 75,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 76,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 77,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stephen F. Austin",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 78,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 79,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 80,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 81,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Military Institute",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 82,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 83,
+        "wk": 2,
+        "date": "Aug 31 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Weber State",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 84,
+        "wk": 2,
+        "date": "Sep 1 2019",
+        "time": "6:30 PM",
+        "day": "Sun",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 85,
+        "wk": 2,
+        "date": "Sep 2 2019",
+        "time": "12:00 PM",
+        "day": "Mon",
+        "awayTeam": "Notre Dame",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 86,
+        "wk": 3,
+        "date": "Sep 6 2019",
+        "time": "8:00 PM",
+        "day": "Fri",
+        "awayTeam": "Marshall",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 87,
+        "wk": 3,
+        "date": "Sep 6 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Sacramento State",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 88,
+        "wk": 3,
+        "date": "Sep 6 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "William & Mary",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 89,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 90,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 91,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 92,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 93,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 94,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 95,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 96,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 97,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 98,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 99,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charleston Southern",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 100,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 101,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 102,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 103,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 104,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 105,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 106,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fordham",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 107,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Furman",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 108,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Gardner-Webb",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 109,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Grambling State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 110,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 111,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Jackson State",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 112,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kennesaw State",
+        "ptsHome": "",
+
+        "homeTeam": "Kent State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 113,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 114,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 115,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 116,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maine",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 117,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "McNeese State",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 118,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (FL)",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 119,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "Minnesota",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 120,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Murray State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 121,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nebraska",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 122,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 123,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 124,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina A&T",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 125,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 126,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 127,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 128,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 129,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 130,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 131,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 132,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Prairie View A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Houston",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 133,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Richmond",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 134,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rutgers",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 135,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 136,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Dakota",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 137,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 138,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 139,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 140,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 141,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stanford",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 142,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stony Brook",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 143,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 144,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 145,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (OH)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 146,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee-Martin",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 147,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 148,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 149,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 150,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 151,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 152,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Vanderbilt",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 153,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wake Forest",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 154,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 155,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 156,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 157,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 158,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 159,
+        "wk": 3,
+        "date": "Sep 7 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 160,
+        "wk": 4,
+        "date": "Sep 12 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 161,
+        "wk": 4,
+        "date": "Sep 13 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "NRG Stadium - Houston Texas"
+    },
+    {
+        "rk": 162,
+        "wk": 4,
+        "date": "Sep 13 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Kansas",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 163,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 164,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 165,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 166,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona State",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 167,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 168,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 169,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bethune-Cookman",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 170,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 171,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cal Poly",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 172,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Chattanooga",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 173,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Citadel",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 174,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Clemson",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 175,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado State",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 176,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Duke",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 177,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 178,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 179,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 180,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 181,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida State",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 182,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Furman",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 183,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 184,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 185,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hawaii",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 186,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Idaho",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 187,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Idaho State",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 188,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 189,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 190,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 191,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Lamar",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 192,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 193,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Nissan Stadium - Nashville Tennessee"
+    },
+    {
+        "rk": 194,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 195,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 196,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 197,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 198,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri State",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 199,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Montana",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 200,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Murray State",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 201,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 202,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Hampshire",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 203,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 204,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Norfolk State",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 205,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 206,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 207,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 208,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 209,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 210,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio State",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 211,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 212,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 213,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Pittsburgh",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 214,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Portland State",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 215,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "NRG Stadium - Houston Texas"
+    },
+    {
+        "rk": 216,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 217,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 218,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southeast Missouri State",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 219,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southeastern Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 220,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 221,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 222,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stanford",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 223,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 224,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 225,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 226,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 227,
+        "wk": 4,
+        "date": "Sep 14 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Weber State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 228,
+        "wk": 5,
+        "date": "Sep 19 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 229,
+        "wk": 5,
+        "date": "Sep 20 2019",
+        "time": "9:00 PM",
+        "day": "Fri",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 230,
+        "wk": 5,
+        "date": "Sep 20 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 231,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 232,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Auburn",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 233,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 234,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Baylor",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 235,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 236,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Kent State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 237,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 238,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 239,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Connecticut State",
+        "ptsHome": "",
+
+        "homeTeam": "Eastern Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 240,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 241,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 242,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 243,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 244,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 245,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 246,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Elon",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 247,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida International",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 248,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 249,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hampton",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 250,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 251,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 252,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 253,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 254,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 255,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 256,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 257,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan State",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 258,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Morgan State",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 259,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nebraska",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 260,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 261,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 262,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Notre Dame",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 263,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 264,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 265,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 266,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Sacramento State",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 267,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 268,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 269,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 270,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 271,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 272,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 273,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Temple",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 274,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 275,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 276,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 277,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 278,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 279,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "10:30 PM",
+        "day": "Sat",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 280,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wagner",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 281,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 282,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 283,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 284,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "William & Mary",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 285,
+        "wk": 5,
+        "date": "Sep 21 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 286,
+        "wk": 6,
+        "date": "Sep 26 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Navy",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 287,
+        "wk": 6,
+        "date": "Sep 27 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Arizona State",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 288,
+        "wk": 6,
+        "date": "Sep 27 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Duke",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 289,
+        "wk": 6,
+        "date": "Sep 27 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Penn State",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 290,
+        "wk": 6,
+        "date": "Sep 27 2019",
+        "time": "7:00 PM",
+        "day": "Fri",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 291,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 292,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 293,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "AT&T Stadium - Arlington Texas"
+    },
+    {
+        "rk": 294,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 295,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 296,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (OH)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 297,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 298,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 299,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Clemson",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 300,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 301,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "6:30 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado State",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 302,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 303,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Delaware",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 304,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 305,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 306,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 307,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 308,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hawaii",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 309,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Holy Cross",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 310,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 311,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 312,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa State",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 313,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 314,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 315,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 316,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 317,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 318,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 319,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Minnesota",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 320,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 321,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi State",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 322,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 323,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 324,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nicholls State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 325,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 326,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 327,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 328,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio State",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 329,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rutgers",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 330,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 331,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 332,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 333,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stanford",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 334,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 335,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 336,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Towson",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 337,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 338,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 339,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wake Forest",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 340,
+        "wk": 6,
+        "date": "Sep 28 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington State",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 341,
+        "wk": 7,
+        "date": "Oct 3 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 342,
+        "wk": 7,
+        "date": "Oct 3 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Temple",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 343,
+        "wk": 7,
+        "date": "Oct 4 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 344,
+        "wk": 7,
+        "date": "Oct 4 2019",
+        "time": "9:00 PM",
+        "day": "Fri",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 345,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 346,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 347,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 348,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Auburn",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 349,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "Northern Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 350,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Baylor",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 351,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 352,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 353,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 354,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 355,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 356,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 357,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 358,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 359,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 360,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 361,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Marshall",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 362,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 363,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 364,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 365,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan State",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 366,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 367,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 368,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 369,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 370,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 371,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 372,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Pittsburgh",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 373,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Purdue",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 374,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 375,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 376,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 377,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 378,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 379,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 380,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 381,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 382,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 383,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 384,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Vanderbilt",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 385,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 386,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 387,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 388,
+        "wk": 7,
+        "date": "Oct 5 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 389,
+        "wk": 8,
+        "date": "Oct 9 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 390,
+        "wk": 8,
+        "date": "Oct 10 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 391,
+        "wk": 8,
+        "date": "Oct 10 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 392,
+        "wk": 8,
+        "date": "Oct 11 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 393,
+        "wk": 8,
+        "date": "Oct 11 2019",
+        "time": "7:00 PM",
+        "day": "Fri",
+        "awayTeam": "Colorado State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 394,
+        "wk": 8,
+        "date": "Oct 11 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 395,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 396,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 397,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 398,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 399,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "Eastern Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 400,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 401,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 402,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "Houston",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 403,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 404,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 405,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida State",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 406,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "6:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 407,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 408,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 409,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hawaii",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 410,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa State",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 411,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 412,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 413,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 414,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 415,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 416,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 417,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 418,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan State",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 419,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 420,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 421,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi State",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 422,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Navy",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 423,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nebraska",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 424,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 425,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 426,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 427,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 428,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "Cotton Bowl - Dallas Texas"
+    },
+    {
+        "rk": 429,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 430,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Penn State",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 431,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rhode Island",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 432,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rutgers",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 433,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 434,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 435,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 436,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 437,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 438,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 439,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 440,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington State",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 441,
+        "wk": 8,
+        "date": "Oct 12 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 442,
+        "wk": 9,
+        "date": "Oct 16 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 443,
+        "wk": 9,
+        "date": "Oct 17 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 444,
+        "wk": 9,
+        "date": "Oct 17 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 445,
+        "wk": 9,
+        "date": "Oct 18 2019",
+        "time": "9:00 PM",
+        "day": "Fri",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 446,
+        "wk": 9,
+        "date": "Oct 18 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Ohio State",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 447,
+        "wk": 9,
+        "date": "Oct 18 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Pittsburgh",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 448,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "10:00 PM",
+        "day": "Sat",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 449,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 450,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona State",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 451,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 452,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Auburn",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 453,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Baylor",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 454,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 455,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 456,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 457,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 458,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Clemson",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 459,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 460,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 461,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Duke",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 462,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 463,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 464,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida State",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 465,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 466,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 467,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 468,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 469,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 470,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 471,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 472,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 473,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 474,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maine",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 475,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Marshall",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 476,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 477,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 478,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Minnesota",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 479,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 480,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 481,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 482,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 483,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 484,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (OH)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 485,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 486,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 487,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 488,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Purdue",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 489,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 490,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 491,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 492,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 493,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Temple",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 494,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 495,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 496,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 497,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 498,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 499,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 500,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 501,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 502,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Eastern Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 503,
+        "wk": 9,
+        "date": "Oct 19 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wisconsin",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 504,
+        "wk": 10,
+        "date": "Oct 24 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "Houston",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 505,
+        "wk": 10,
+        "date": "Oct 25 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 506,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Northern Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 507,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 508,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 509,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona State",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 510,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 511,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Auburn",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 512,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 513,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 514,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 515,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 516,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 517,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado State",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 518,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 519,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Duke",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 520,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 521,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 522,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida International",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 523,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hawaii",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 524,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 525,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 526,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 527,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 528,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 529,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 530,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 531,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (FL)",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 532,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Kent State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 533,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 534,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 535,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 536,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 537,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 538,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Notre Dame",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 539,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 540,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 541,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 542,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Penn State",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 543,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 544,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 545,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 546,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Florida",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 547,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 548,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 549,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 550,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 551,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 552,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 553,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 554,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 555,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 556,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington State",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 557,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 558,
+        "wk": 10,
+        "date": "Oct 26 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wisconsin",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 559,
+        "wk": 11,
+        "date": "Oct 31 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 560,
+        "wk": 11,
+        "date": "Oct 31 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 561,
+        "wk": 11,
+        "date": "Nov 1 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Navy",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 562,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 563,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 564,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 565,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "2:30 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 566,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "9:30 PM",
+        "day": "Sat",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 567,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 568,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 569,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Eastern Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 570,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 571,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 572,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": "TIAA Bank Field - Jacksonville Florida"
+    },
+    {
+        "rk": 573,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 574,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 575,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 576,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 577,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 578,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Marshall",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 579,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (FL)",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 580,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 581,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 582,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 583,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mississippi State",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 584,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nebraska",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 585,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 586,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 587,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 588,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 589,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 590,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 591,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 592,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 593,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Pittsburgh",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 594,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rutgers",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 595,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 596,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 597,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 598,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 599,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 600,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 601,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 602,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 603,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Vanderbilt",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 604,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 605,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 606,
+        "wk": 11,
+        "date": "Nov 2 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wofford",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 607,
+        "wk": 12,
+        "date": "Nov 5 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "Western Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 608,
+        "wk": 12,
+        "date": "Nov 5 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 609,
+        "wk": 12,
+        "date": "Nov 6 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 610,
+        "wk": 12,
+        "date": "Nov 7 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 611,
+        "wk": 12,
+        "date": "Nov 7 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Temple",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 612,
+        "wk": 12,
+        "date": "Nov 8 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 613,
+        "wk": 12,
+        "date": "Nov 8 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 614,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 615,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 616,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 617,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Baylor",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 618,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 619,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Clemson",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 620,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 621,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 622,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida International",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 623,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida State",
+        "ptsHome": "",
+
+        "homeTeam": "Boston College",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 624,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 625,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 626,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 627,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 628,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 629,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa State",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 630,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 631,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 632,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 633,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (FL)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 634,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 635,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 636,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 637,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 638,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 639,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 640,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Notre Dame",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 641,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Penn State",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 642,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Purdue",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 643,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 644,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 645,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 646,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stanford",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 647,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 648,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 649,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 650,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "7:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 651,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Vanderbilt",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 652,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wake Forest",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 653,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington State",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 654,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 655,
+        "wk": 12,
+        "date": "Nov 9 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 656,
+        "wk": 13,
+        "date": "Nov 12 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 657,
+        "wk": 13,
+        "date": "Nov 12 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 658,
+        "wk": 13,
+        "date": "Nov 13 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (OH)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 659,
+        "wk": 13,
+        "date": "Nov 13 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Northern Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Toledo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 660,
+        "wk": 13,
+        "date": "Nov 14 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Buffalo",
+        "ptsHome": "",
+
+        "homeTeam": "Kent State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 661,
+        "wk": 13,
+        "date": "Nov 14 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 662,
+        "wk": 13,
+        "date": "Nov 15 2019",
+        "time": "9:30 PM",
+        "day": "Fri",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 663,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Air Force",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 664,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 665,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama State",
+        "ptsHome": "",
+
+        "homeTeam": "Florida State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 666,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 667,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 668,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arizona State",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 669,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 670,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 671,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 672,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 673,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 674,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Hawaii",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 675,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Idaho State",
+        "ptsHome": "",
+
+        "homeTeam": "Brigham Young",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 676,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Incarnate Word",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 677,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 678,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 679,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 680,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 681,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana State",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 682,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 683,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 684,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 685,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Massachusetts",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 686,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "Houston",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 687,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan State",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 688,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Minnesota",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 689,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Navy",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 690,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico",
+        "ptsHome": "",
+
+        "homeTeam": "Boise State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 691,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio State",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 692,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 693,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 694,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Texas A&M",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 695,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern California",
+        "ptsHome": "",
+
+        "homeTeam": "California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 696,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 697,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Stanford",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 698,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 699,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 700,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 701,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 702,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Texas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 703,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 704,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 705,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Military Institute",
+        "ptsHome": "",
+
+        "homeTeam": "Army",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 706,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Virginia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 707,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wake Forest",
+        "ptsHome": "",
+
+        "homeTeam": "Clemson",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 708,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 709,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wisconsin",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 710,
+        "wk": 13,
+        "date": "Nov 16 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 711,
+        "wk": 14,
+        "date": "Nov 19 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Eastern Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Northern Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 712,
+        "wk": 14,
+        "date": "Nov 19 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Bowling Green State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 713,
+        "wk": 14,
+        "date": "Nov 20 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Akron",
+        "ptsHome": "",
+
+        "homeTeam": "Miami (OH)",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 714,
+        "wk": 14,
+        "date": "Nov 20 2019",
+        "time": "12:00 PM",
+        "day": "Wed",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 715,
+        "wk": 14,
+        "date": "Nov 21 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "North Carolina State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 716,
+        "wk": 14,
+        "date": "Nov 22 2019",
+        "time": "9:30 PM",
+        "day": "Fri",
+        "awayTeam": "Colorado State",
+        "ptsHome": "",
+
+        "homeTeam": "Wyoming",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 717,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Abilene Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 718,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 719,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ball State",
+        "ptsHome": "",
+
+        "homeTeam": "Kent State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 720,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "10:30 PM",
+        "day": "Sat",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "Utah State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 721,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Notre Dame",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 722,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "Massachusetts",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 723,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 724,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Central Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Tulane",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 725,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Coastal Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana-Monroe",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 726,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Duke",
+        "ptsHome": "",
+
+        "homeTeam": "Wake Forest",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 727,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Connecticut",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 728,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "East Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Vanderbilt",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 729,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida Atlantic",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-San Antonio",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 730,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia Southern",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 731,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Houston",
+        "ptsHome": "",
+
+        "homeTeam": "Tulsa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 732,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Illinois",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 733,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas",
+        "ptsHome": "",
+
+        "homeTeam": "Iowa State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 734,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Kansas State",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 735,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Liberty",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 736,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama-Birmingham",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 737,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Marshall",
+        "ptsHome": "",
+
+        "homeTeam": "Charlotte",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 738,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Memphis",
+        "ptsHome": "",
+
+        "homeTeam": "South Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 739,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Mercer",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 740,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (FL)",
+        "ptsHome": "",
+
+        "homeTeam": "Florida International",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 741,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Indiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 742,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Michigan State",
+        "ptsHome": "",
+
+        "homeTeam": "Rutgers",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 743,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Minnesota",
+        "ptsHome": "",
+
+        "homeTeam": "Northwestern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 744,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nebraska",
+        "ptsHome": "",
+
+        "homeTeam": "Maryland",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 745,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada",
+        "ptsHome": "",
+
+        "homeTeam": "Fresno State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 746,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Rice",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 747,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma State",
+        "ptsHome": "",
+
+        "homeTeam": "West Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 748,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Old Dominion",
+        "ptsHome": "",
+
+        "homeTeam": "Middle Tennessee State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 749,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 750,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "Washington State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 751,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Penn State",
+        "ptsHome": "",
+
+        "homeTeam": "Ohio State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 752,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Pittsburgh",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 753,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Purdue",
+        "ptsHome": "",
+
+        "homeTeam": "Wisconsin",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 754,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Samford",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 755,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Diego State",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 756,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "San Jose State",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada-Las Vegas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 757,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "South Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 758,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Methodist",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 759,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Syracuse",
+        "ptsHome": "",
+
+        "homeTeam": "Louisville",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 760,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Temple",
+        "ptsHome": "",
+
+        "homeTeam": "Cincinnati",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 761,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee",
+        "ptsHome": "",
+
+        "homeTeam": "Missouri",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 762,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tennessee-Martin",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 763,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas",
+        "ptsHome": "",
+
+        "homeTeam": "Baylor",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 764,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 765,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas Christian",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 766,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Appalachian State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 767,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-El Paso",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 768,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Troy",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 769,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "UCLA",
+        "ptsHome": "",
+
+        "homeTeam": "Southern California",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 770,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 771,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Washington",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 772,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 773,
+        "wk": 14,
+        "date": "Nov 23 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Western Kentucky",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Mississippi",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 774,
+        "wk": 15,
+        "date": "Nov 26 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Ohio",
+        "ptsHome": "",
+
+        "homeTeam": "Akron",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 775,
+        "wk": 15,
+        "date": "Nov 26 2019",
+        "time": "12:00 PM",
+        "day": "Tue",
+        "awayTeam": "Western Michigan",
+        "ptsHome": "",
+
+        "homeTeam": "Northern Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 776,
+        "wk": 15,
+        "date": "Nov 28 2019",
+        "time": "12:00 PM",
+        "day": "Thu",
+        "awayTeam": "Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Mississippi State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 777,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Arizona",
+        "ptsHome": "",
+
+        "homeTeam": "Arizona State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 778,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "3:30 PM",
+        "day": "Fri",
+        "awayTeam": "Boise State",
+        "ptsHome": "",
+
+        "homeTeam": "Colorado State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 779,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Bowling Green State",
+        "ptsHome": "",
+
+        "homeTeam": "Buffalo",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 780,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Cincinnati",
+        "ptsHome": "",
+
+        "homeTeam": "Memphis",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 781,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Iowa",
+        "ptsHome": "",
+
+        "homeTeam": "Nebraska",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 782,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Kent State",
+        "ptsHome": "",
+
+        "homeTeam": "Eastern Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 783,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Miami (OH)",
+        "ptsHome": "",
+
+        "homeTeam": "Ball State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 784,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "South Florida",
+        "ptsHome": "",
+
+        "homeTeam": "Central Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 785,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Texas Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 786,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Toledo",
+        "ptsHome": "",
+
+        "homeTeam": "Central Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 787,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Virginia Tech",
+        "ptsHome": "",
+
+        "homeTeam": "Virginia",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 788,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "Washington State",
+        "ptsHome": "",
+
+        "homeTeam": "Washington",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 789,
+        "wk": 15,
+        "date": "Nov 29 2019",
+        "time": "12:00 PM",
+        "day": "Fri",
+        "awayTeam": "West Virginia",
+        "ptsHome": "",
+
+        "homeTeam": "Texas Christian",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 790,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama",
+        "ptsHome": "",
+
+        "homeTeam": "Auburn",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 791,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Alabama-Birmingham",
+        "ptsHome": "",
+
+        "homeTeam": "North Texas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 792,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Appalachian State",
+        "ptsHome": "",
+
+        "homeTeam": "Troy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 793,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Arkansas State",
+        "ptsHome": "",
+
+        "homeTeam": "South Alabama",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 794,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "11:59 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Hawaii",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 795,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Baylor",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 796,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Boston College",
+        "ptsHome": "",
+
+        "homeTeam": "Pittsburgh",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 797,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "9:00 PM",
+        "day": "Sat",
+        "awayTeam": "Brigham Young",
+        "ptsHome": "",
+
+        "homeTeam": "San Diego State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 798,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "California",
+        "ptsHome": "",
+
+        "homeTeam": "UCLA",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 799,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Charlotte",
+        "ptsHome": "",
+
+        "homeTeam": "Old Dominion",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 800,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Clemson",
+        "ptsHome": "",
+
+        "homeTeam": "South Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 801,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Colorado",
+        "ptsHome": "",
+
+        "homeTeam": "Utah",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 802,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Connecticut",
+        "ptsHome": "",
+
+        "homeTeam": "Temple",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 803,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida International",
+        "ptsHome": "",
+
+        "homeTeam": "Marshall",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 804,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Florida State",
+        "ptsHome": "",
+
+        "homeTeam": "Florida",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 805,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Fresno State",
+        "ptsHome": "",
+
+        "homeTeam": "San Jose State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 806,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 807,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Georgia State",
+        "ptsHome": "",
+
+        "homeTeam": "Georgia Southern",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 808,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Indiana",
+        "ptsHome": "",
+
+        "homeTeam": "Purdue",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 809,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Iowa State",
+        "ptsHome": "",
+
+        "homeTeam": "Kansas State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 810,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisiana-Monroe",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 811,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Louisville",
+        "ptsHome": "",
+
+        "homeTeam": "Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 812,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Maryland",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 813,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Miami (FL)",
+        "ptsHome": "",
+
+        "homeTeam": "Duke",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 814,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Middle Tennessee State",
+        "ptsHome": "",
+
+        "homeTeam": "Western Kentucky",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 815,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Missouri",
+        "ptsHome": "",
+
+        "homeTeam": "Arkansas",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 816,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Navy",
+        "ptsHome": "",
+
+        "homeTeam": "Houston",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 817,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Nevada-Las Vegas",
+        "ptsHome": "",
+
+        "homeTeam": "Nevada",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 818,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "New Mexico State",
+        "ptsHome": "",
+
+        "homeTeam": "Liberty",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 819,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "North Carolina",
+        "ptsHome": "",
+
+        "homeTeam": "North Carolina State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 820,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Northwestern",
+        "ptsHome": "",
+
+        "homeTeam": "Illinois",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 821,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Notre Dame",
+        "ptsHome": "",
+
+        "homeTeam": "Stanford",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 822,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Ohio State",
+        "ptsHome": "",
+
+        "homeTeam": "Michigan",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 823,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oklahoma",
+        "ptsHome": "",
+
+        "homeTeam": "Oklahoma State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 824,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Oregon State",
+        "ptsHome": "",
+
+        "homeTeam": "Oregon",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 825,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rice",
+        "ptsHome": "",
+
+        "homeTeam": "Texas-El Paso",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 826,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Rutgers",
+        "ptsHome": "",
+
+        "homeTeam": "Penn State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 827,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Southern Mississippi",
+        "ptsHome": "",
+
+        "homeTeam": "Florida Atlantic",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 828,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas A&M",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana State",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 829,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas State",
+        "ptsHome": "",
+
+        "homeTeam": "Coastal Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 830,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Texas-San Antonio",
+        "ptsHome": "",
+
+        "homeTeam": "Louisiana Tech",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 831,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulane",
+        "ptsHome": "",
+
+        "homeTeam": "Southern Methodist",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 832,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Tulsa",
+        "ptsHome": "",
+
+        "homeTeam": "East Carolina",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 833,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Utah State",
+        "ptsHome": "",
+
+        "homeTeam": "New Mexico",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 834,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Vanderbilt",
+        "ptsHome": "",
+
+        "homeTeam": "Tennessee",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 835,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wake Forest",
+        "ptsHome": "",
+
+        "homeTeam": "Syracuse",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 836,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wisconsin",
+        "ptsHome": "",
+
+        "homeTeam": "Minnesota",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 837,
+        "wk": 15,
+        "date": "Nov 30 2019",
+        "time": "12:00 PM",
+        "day": "Sat",
+        "awayTeam": "Wyoming",
+        "ptsHome": "",
+
+        "homeTeam": "Air Force",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
+    },
+    {
+        "rk": 838,
+        "wk": 16,
+        "date": "Dec 14 2019",
+        "time": "3:00 PM",
+        "day": "Sat",
+        "awayTeam": "Army",
+        "ptsHome": "",
+
+        "homeTeam": "Navy",
+        "ptsAway": "",
+        "tv": "",
+        "notes": ""
     }
 ]

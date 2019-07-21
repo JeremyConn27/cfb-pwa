@@ -1,13 +1,13 @@
 export class Schedule {
-    Rk?: number;
-    Wk?: number;
-    Date?: string;
-    Time?: string;
-    Day?: string;
-    Visitor?: string;
-    Pts?: string;
-    Home?: string;
-    Pts__1?: string;
-    TV?: string;
-    Notes?: string;
+    rk?: number;
+    wk?: number;
+    date?: string;
+    time?: string;
+    day?: string;
+    awayTeam?: string;
+    ptsHome?: string;
+    homeTeam?: string;
+    ptsAway?: string;
+    tv?: string;
+    notes?: string;
 }

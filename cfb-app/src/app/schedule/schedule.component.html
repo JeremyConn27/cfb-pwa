@@ -1,10 +1,19 @@
 <h1>Schedule</h1>
 
-<section *ngFor="let game of games">
-    <h2>{{game.Wk}} - {{game.Day}}, {{game.Date}}</h2>
-    <div class="matchup-container">
-        <span class="home-team">{{game.Home}}</span>
-        <span class="versus">vs</span>
-        <span class="away-team">{{game.Visitor}}</span>
+<div class="single-game-container" *ngFor="let game of games">
+    <div class="game-info-container">
+        <span class="game-date">{{game.day}}, {{game.date}} - {{game.time}}</span>
+        <span class="game-week">Wk {{game.wk}}</span>
     </div>
-</section>
+    <div class="matchup-container">
+        <span class="home-team">
+            <span class="side-indicator">Home</span>
+            {{game.homeTeam}}
+        </span>
+        <span class="versus">vs</span>
+        <span class="away-team">
+            <span class="side-indicator">Away</span>
+            {{game.awayTeam}}
+        </span>
+    </div>
+</div>
