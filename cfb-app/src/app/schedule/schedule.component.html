@@ -2,7 +2,7 @@
 
 <div class="single-game-container" *ngFor="let game of games | slice:0:100; let i=index">
     <div class="game-info-container">
-        <span class="game-date">{{game.day}}, {{game.date}} - {{game.time}}</span>
+        <span class="game-date">{{game.day}}, {{game.date}} <span class="divider">&nbsp; | &nbsp;</span> {{game.time}}</span>
         <span class="game-week">Wk {{game.wk}}</span>
     </div>
     <div class="matchup-container">
