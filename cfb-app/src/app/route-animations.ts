@@ -10,7 +10,7 @@ export const fader =
           left: 0,
           width: '100%',
           opacity: 0,
-          transform: 'translateY(15%)',
+          transform: 'translateY(40px)',
           'will-change': 'transform'
         }),
       ], {optional: true}),
