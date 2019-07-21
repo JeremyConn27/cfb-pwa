@@ -4,7 +4,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 1,
         "wk": 1,
-        "date": "Aug 24 2019",
+        "date": "Aug 24 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "Arizona",
@@ -18,7 +18,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 2,
         "wk": 1,
-        "date": "Aug 24 2019",
+        "date": "Aug 24 ",
         "time": "6:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -32,7 +32,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 3,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Alabama State",
@@ -46,7 +46,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 4,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Albany",
@@ -60,7 +60,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 5,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Central Arkansas",
@@ -74,7 +74,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 6,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Florida A&M",
@@ -88,7 +88,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 7,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Florida International",
@@ -102,7 +102,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 8,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Georgia Tech",
@@ -116,7 +116,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 9,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Kent State",
@@ -130,7 +130,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 10,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Morgan State",
@@ -144,7 +144,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 11,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Northern Colorado",
@@ -158,7 +158,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 12,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Robert Morris",
@@ -172,7 +172,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 13,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "South Dakota State",
@@ -186,7 +186,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 14,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "7:30 PM",
         "day": "Thu",
         "awayTeam": "Texas State",
@@ -200,7 +200,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 15,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "UCLA",
@@ -214,7 +214,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 16,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Utah",
@@ -228,7 +228,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 17,
         "wk": 2,
-        "date": "Aug 29 2019",
+        "date": "Aug 29 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Wagner",
@@ -242,7 +242,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 18,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Colorado",
@@ -256,7 +256,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 19,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Massachusetts",
@@ -270,7 +270,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 20,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Oklahoma State",
@@ -284,7 +284,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 21,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "8:30 PM",
         "day": "Fri",
         "awayTeam": "Purdue",
@@ -298,7 +298,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 22,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Rice",
@@ -312,7 +312,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 23,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Tulsa",
@@ -326,7 +326,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 24,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Utah State",
@@ -340,7 +340,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 25,
         "wk": 2,
-        "date": "Aug 30 2019",
+        "date": "Aug 30 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Wisconsin",
@@ -354,7 +354,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 26,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Abilene Christian",
@@ -368,7 +368,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 27,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Akron",
@@ -382,7 +382,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 28,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama",
@@ -396,7 +396,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 29,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alcorn State",
@@ -410,7 +410,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 30,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas-Pine Bluff",
@@ -424,7 +424,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 31,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Auburn",
@@ -438,7 +438,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 32,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ball State",
@@ -452,7 +452,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 33,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boise State",
@@ -466,7 +466,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 34,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bucknell",
@@ -480,7 +480,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 35,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California-Davis",
@@ -494,7 +494,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 36,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Campbell",
@@ -508,7 +508,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 37,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colgate",
@@ -522,7 +522,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 38,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -536,7 +536,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 39,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Tennessee State",
@@ -550,7 +550,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 40,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Michigan",
@@ -564,7 +564,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 41,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Washington",
@@ -578,7 +578,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 42,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -592,7 +592,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 43,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Fresno State",
@@ -606,7 +606,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 44,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Gardner-Webb",
@@ -620,7 +620,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 45,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia",
@@ -634,7 +634,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 46,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Southern",
@@ -648,7 +648,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 47,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -662,7 +662,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 48,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "7:00 PM",
         "day": "Sat",
         "awayTeam": "Grambling State",
@@ -676,7 +676,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 49,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Holy Cross",
@@ -690,7 +690,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 50,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Houston Baptist",
@@ -704,7 +704,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 51,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Howard",
@@ -718,7 +718,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 52,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Idaho",
@@ -732,7 +732,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 53,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois State",
@@ -746,7 +746,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 54,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Incarnate Word",
@@ -760,7 +760,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 55,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana State",
@@ -774,7 +774,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 56,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "James Madison",
@@ -788,7 +788,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 57,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana",
@@ -802,7 +802,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 58,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -816,7 +816,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 59,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (OH)",
@@ -830,7 +830,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 60,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -844,7 +844,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 61,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi",
@@ -858,7 +858,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 62,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "6:30 PM",
         "day": "Sat",
         "awayTeam": "Missouri",
@@ -872,7 +872,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 63,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Monmouth",
@@ -886,7 +886,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 64,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Montana State",
@@ -900,7 +900,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 65,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -914,7 +914,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 66,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nicholls State",
@@ -928,7 +928,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 67,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Norfolk State",
@@ -942,7 +942,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 68,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina",
@@ -956,7 +956,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 69,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Iowa",
@@ -970,7 +970,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 70,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern",
@@ -984,7 +984,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 71,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Portland State",
@@ -998,7 +998,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 72,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rhode Island",
@@ -1012,7 +1012,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 73,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Sam Houston State",
@@ -1026,7 +1026,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 74,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Alabama",
@@ -1040,7 +1040,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 75,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Methodist",
@@ -1054,7 +1054,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 76,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Utah",
@@ -1068,7 +1068,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 77,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stephen F. Austin",
@@ -1082,7 +1082,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 78,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Syracuse",
@@ -1096,7 +1096,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 79,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Toledo",
@@ -1110,7 +1110,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 80,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia",
@@ -1124,7 +1124,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 81,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Military Institute",
@@ -1138,7 +1138,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 82,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Tech",
@@ -1152,7 +1152,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 83,
         "wk": 2,
-        "date": "Aug 31 2019",
+        "date": "Aug 31 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Weber State",
@@ -1166,7 +1166,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 84,
         "wk": 2,
-        "date": "Sep 1 2019",
+        "date": "Sep 1 ",
         "time": "6:30 PM",
         "day": "Sun",
         "awayTeam": "Houston",
@@ -1180,7 +1180,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 85,
         "wk": 2,
-        "date": "Sep 2 2019",
+        "date": "Sep 2 ",
         "time": "12:00 PM",
         "day": "Mon",
         "awayTeam": "Notre Dame",
@@ -1194,7 +1194,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 86,
         "wk": 3,
-        "date": "Sep 6 2019",
+        "date": "Sep 6 ",
         "time": "8:00 PM",
         "day": "Fri",
         "awayTeam": "Marshall",
@@ -1208,7 +1208,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 87,
         "wk": 3,
-        "date": "Sep 6 2019",
+        "date": "Sep 6 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Sacramento State",
@@ -1222,7 +1222,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 88,
         "wk": 3,
-        "date": "Sep 6 2019",
+        "date": "Sep 6 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "William & Mary",
@@ -1236,7 +1236,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 89,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -1250,7 +1250,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 90,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas",
@@ -1264,7 +1264,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 91,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -1278,7 +1278,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 92,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -1292,7 +1292,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 93,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bowling Green State",
@@ -1306,7 +1306,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 94,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -1320,7 +1320,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 95,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Buffalo",
@@ -1334,7 +1334,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 96,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -1348,7 +1348,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 97,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Florida",
@@ -1362,7 +1362,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 98,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -1376,7 +1376,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 99,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charleston Southern",
@@ -1390,7 +1390,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 100,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -1404,7 +1404,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 101,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cincinnati",
@@ -1418,7 +1418,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 102,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -1432,7 +1432,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 103,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Illinois",
@@ -1446,7 +1446,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 104,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Kentucky",
@@ -1460,7 +1460,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 105,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Michigan",
@@ -1474,7 +1474,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 106,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Fordham",
@@ -1488,7 +1488,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 107,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Furman",
@@ -1502,7 +1502,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 108,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Gardner-Webb",
@@ -1516,7 +1516,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 109,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Grambling State",
@@ -1530,7 +1530,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 110,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois",
@@ -1544,7 +1544,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 111,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Jackson State",
@@ -1558,7 +1558,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 112,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kennesaw State",
@@ -1572,7 +1572,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 113,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -1586,7 +1586,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 114,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana State",
@@ -1600,7 +1600,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 115,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana-Monroe",
@@ -1614,7 +1614,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 116,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maine",
@@ -1628,7 +1628,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 117,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "McNeese State",
@@ -1642,7 +1642,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 118,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (FL)",
@@ -1656,7 +1656,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 119,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "Minnesota",
@@ -1670,7 +1670,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 120,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Murray State",
@@ -1684,7 +1684,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 121,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nebraska",
@@ -1698,7 +1698,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 122,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -1712,7 +1712,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 123,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -1726,7 +1726,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 124,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina A&T",
@@ -1740,7 +1740,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 125,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -1754,7 +1754,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 126,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Arizona",
@@ -1768,7 +1768,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 127,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Colorado",
@@ -1782,7 +1782,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 128,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -1796,7 +1796,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 129,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio",
@@ -1810,7 +1810,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 130,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -1824,7 +1824,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 131,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -1838,7 +1838,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 132,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Prairie View A&M",
@@ -1852,7 +1852,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 133,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Richmond",
@@ -1866,7 +1866,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 134,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rutgers",
@@ -1880,7 +1880,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 135,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -1894,7 +1894,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 136,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Dakota",
@@ -1908,7 +1908,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 137,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Florida",
@@ -1922,7 +1922,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 138,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern",
@@ -1936,7 +1936,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 139,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Illinois",
@@ -1950,7 +1950,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 140,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -1964,7 +1964,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 141,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stanford",
@@ -1978,7 +1978,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 142,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stony Brook",
@@ -1992,7 +1992,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 143,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Syracuse",
@@ -2006,7 +2006,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 144,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee State",
@@ -2020,7 +2020,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 145,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee Tech",
@@ -2034,7 +2034,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 146,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee-Martin",
@@ -2048,7 +2048,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 147,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas A&M",
@@ -2062,7 +2062,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 148,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -2076,7 +2076,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 149,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -2090,7 +2090,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 150,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -2104,7 +2104,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 151,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulsa",
@@ -2118,7 +2118,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 152,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Vanderbilt",
@@ -2132,7 +2132,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 153,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wake Forest",
@@ -2146,7 +2146,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 154,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "West Virginia",
@@ -2160,7 +2160,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 155,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Carolina",
@@ -2174,7 +2174,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 156,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Illinois",
@@ -2188,7 +2188,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 157,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Kentucky",
@@ -2202,7 +2202,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 158,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Michigan",
@@ -2216,7 +2216,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 159,
         "wk": 3,
-        "date": "Sep 7 2019",
+        "date": "Sep 7 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -2230,7 +2230,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 160,
         "wk": 4,
-        "date": "Sep 12 2019",
+        "date": "Sep 12 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "North Carolina",
@@ -2244,7 +2244,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 161,
         "wk": 4,
-        "date": "Sep 13 2019",
+        "date": "Sep 13 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Houston",
@@ -2258,7 +2258,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 162,
         "wk": 4,
-        "date": "Sep 13 2019",
+        "date": "Sep 13 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Kansas",
@@ -2272,7 +2272,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 163,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Air Force",
@@ -2286,7 +2286,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 164,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Akron",
@@ -2300,7 +2300,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 165,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama",
@@ -2314,7 +2314,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 166,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona State",
@@ -2328,7 +2328,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 167,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -2342,7 +2342,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 168,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -2356,7 +2356,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 169,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bethune-Cookman",
@@ -2370,7 +2370,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 170,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Buffalo",
@@ -2384,7 +2384,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 171,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cal Poly",
@@ -2398,7 +2398,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 172,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Chattanooga",
@@ -2412,7 +2412,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 173,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Citadel",
@@ -2426,7 +2426,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 174,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Clemson",
@@ -2440,7 +2440,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 175,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado State",
@@ -2454,7 +2454,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 176,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Duke",
@@ -2468,7 +2468,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 177,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -2482,7 +2482,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 178,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Michigan",
@@ -2496,7 +2496,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 179,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -2510,7 +2510,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 180,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -2524,7 +2524,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 181,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida State",
@@ -2538,7 +2538,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 182,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Furman",
@@ -2552,7 +2552,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 183,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Southern",
@@ -2566,7 +2566,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 184,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -2580,7 +2580,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 185,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hawaii",
@@ -2594,7 +2594,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 186,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Idaho",
@@ -2608,7 +2608,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 187,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Idaho State",
@@ -2622,7 +2622,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 188,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa",
@@ -2636,7 +2636,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 189,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas State",
@@ -2650,7 +2650,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 190,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kent State",
@@ -2664,7 +2664,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 191,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Lamar",
@@ -2678,7 +2678,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 192,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -2692,7 +2692,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 193,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -2706,7 +2706,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 194,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -2720,7 +2720,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 195,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Massachusetts",
@@ -2734,7 +2734,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 196,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -2748,7 +2748,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 197,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (OH)",
@@ -2762,7 +2762,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 198,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Missouri State",
@@ -2776,7 +2776,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 199,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Montana",
@@ -2790,7 +2790,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 200,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Murray State",
@@ -2804,7 +2804,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 201,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada-Las Vegas",
@@ -2818,7 +2818,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 202,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Hampshire",
@@ -2832,7 +2832,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 203,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico",
@@ -2846,7 +2846,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 204,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Norfolk State",
@@ -2860,7 +2860,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 205,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina State",
@@ -2874,7 +2874,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 206,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -2888,7 +2888,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 207,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -2902,7 +2902,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 208,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern State",
@@ -2916,7 +2916,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 209,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio",
@@ -2930,7 +2930,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 210,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio State",
@@ -2944,7 +2944,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 211,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -2958,7 +2958,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 212,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma State",
@@ -2972,7 +2972,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 213,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Pittsburgh",
@@ -2986,7 +2986,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 214,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Portland State",
@@ -3000,7 +3000,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 215,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rice",
@@ -3014,7 +3014,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 216,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -3028,7 +3028,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 217,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Carolina State",
@@ -3042,7 +3042,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 218,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southeast Missouri State",
@@ -3056,7 +3056,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 219,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southeastern Louisiana",
@@ -3070,7 +3070,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 220,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern California",
@@ -3084,7 +3084,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 221,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -3098,7 +3098,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 222,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stanford",
@@ -3112,7 +3112,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 223,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -3126,7 +3126,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 224,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Southern",
@@ -3140,7 +3140,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 225,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas State",
@@ -3154,7 +3154,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 226,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Tech",
@@ -3168,7 +3168,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 227,
         "wk": 4,
-        "date": "Sep 14 2019",
+        "date": "Sep 14 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Weber State",
@@ -3182,7 +3182,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 228,
         "wk": 5,
-        "date": "Sep 19 2019",
+        "date": "Sep 19 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Houston",
@@ -3196,7 +3196,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 229,
         "wk": 5,
-        "date": "Sep 20 2019",
+        "date": "Sep 20 ",
         "time": "9:00 PM",
         "day": "Fri",
         "awayTeam": "Air Force",
@@ -3210,7 +3210,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 230,
         "wk": 5,
-        "date": "Sep 20 2019",
+        "date": "Sep 20 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Utah",
@@ -3224,7 +3224,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 231,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Appalachian State",
@@ -3238,7 +3238,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 232,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Auburn",
@@ -3252,7 +3252,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 233,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ball State",
@@ -3266,7 +3266,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 234,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Baylor",
@@ -3280,7 +3280,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 235,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -3294,7 +3294,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 236,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bowling Green State",
@@ -3308,7 +3308,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 237,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -3322,7 +3322,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 238,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Arkansas",
@@ -3336,7 +3336,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 239,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Connecticut State",
@@ -3350,7 +3350,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 240,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Florida",
@@ -3364,7 +3364,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 241,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -3378,7 +3378,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 242,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -3392,7 +3392,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 243,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -3406,7 +3406,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 244,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado",
@@ -3420,7 +3420,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 245,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -3434,7 +3434,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 246,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Elon",
@@ -3448,7 +3448,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 247,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida International",
@@ -3462,7 +3462,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 248,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -3476,7 +3476,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 249,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hampton",
@@ -3490,7 +3490,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 250,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kentucky",
@@ -3504,7 +3504,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 251,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana",
@@ -3518,7 +3518,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 252,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana State",
@@ -3532,7 +3532,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 253,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana-Monroe",
@@ -3546,7 +3546,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 254,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -3560,7 +3560,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 255,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (OH)",
@@ -3574,7 +3574,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 256,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan",
@@ -3588,7 +3588,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 257,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan State",
@@ -3602,7 +3602,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 258,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Morgan State",
@@ -3616,7 +3616,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 259,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nebraska",
@@ -3630,7 +3630,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 260,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -3644,7 +3644,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 261,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -3658,7 +3658,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 262,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Notre Dame",
@@ -3672,7 +3672,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 263,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma State",
@@ -3686,7 +3686,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 264,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -3700,7 +3700,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 265,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon",
@@ -3714,7 +3714,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 266,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Sacramento State",
@@ -3728,7 +3728,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 267,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Jose State",
@@ -3742,7 +3742,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 268,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Alabama",
@@ -3756,7 +3756,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 269,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Carolina",
@@ -3770,7 +3770,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 270,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Illinois",
@@ -3784,7 +3784,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 271,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Methodist",
@@ -3798,7 +3798,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 272,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -3812,7 +3812,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 273,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Temple",
@@ -3826,7 +3826,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 274,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee",
@@ -3840,7 +3840,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 275,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -3854,7 +3854,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 276,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Toledo",
@@ -3868,7 +3868,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 277,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -3882,7 +3882,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 278,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "UCLA",
@@ -3896,7 +3896,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 279,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "10:30 PM",
         "day": "Sat",
         "awayTeam": "Utah State",
@@ -3910,7 +3910,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 280,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wagner",
@@ -3924,7 +3924,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 281,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington",
@@ -3938,7 +3938,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 282,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "West Virginia",
@@ -3952,7 +3952,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 283,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Michigan",
@@ -3966,7 +3966,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 284,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "William & Mary",
@@ -3980,7 +3980,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 285,
         "wk": 5,
-        "date": "Sep 21 2019",
+        "date": "Sep 21 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -3994,7 +3994,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 286,
         "wk": 6,
-        "date": "Sep 26 2019",
+        "date": "Sep 26 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Navy",
@@ -4008,7 +4008,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 287,
         "wk": 6,
-        "date": "Sep 27 2019",
+        "date": "Sep 27 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Arizona State",
@@ -4022,7 +4022,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 288,
         "wk": 6,
-        "date": "Sep 27 2019",
+        "date": "Sep 27 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Duke",
@@ -4036,7 +4036,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 289,
         "wk": 6,
-        "date": "Sep 27 2019",
+        "date": "Sep 27 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Penn State",
@@ -4050,7 +4050,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 290,
         "wk": 6,
-        "date": "Sep 27 2019",
+        "date": "Sep 27 ",
         "time": "7:00 PM",
         "day": "Fri",
         "awayTeam": "San Jose State",
@@ -4064,7 +4064,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 291,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Akron",
@@ -4078,7 +4078,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 292,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -4092,7 +4092,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 293,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas",
@@ -4106,7 +4106,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 294,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -4120,7 +4120,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 295,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -4134,7 +4134,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 296,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Buffalo",
@@ -4148,7 +4148,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 297,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -4162,7 +4162,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 298,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cincinnati",
@@ -4176,7 +4176,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 299,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Clemson",
@@ -4190,7 +4190,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 300,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -4204,7 +4204,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 301,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "6:30 PM",
         "day": "Sat",
         "awayTeam": "Colorado State",
@@ -4218,7 +4218,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 302,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -4232,7 +4232,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 303,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Delaware",
@@ -4246,7 +4246,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 304,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -4260,7 +4260,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 305,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -4274,7 +4274,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 306,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Fresno State",
@@ -4288,7 +4288,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 307,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Tech",
@@ -4302,7 +4302,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 308,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hawaii",
@@ -4316,7 +4316,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 309,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Holy Cross",
@@ -4330,7 +4330,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 310,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Houston",
@@ -4344,7 +4344,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 311,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana",
@@ -4358,7 +4358,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 312,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa State",
@@ -4372,7 +4372,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 313,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas",
@@ -4386,7 +4386,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 314,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas State",
@@ -4400,7 +4400,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 315,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kentucky",
@@ -4414,7 +4414,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 316,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana",
@@ -4428,7 +4428,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 317,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -4442,7 +4442,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 318,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -4456,7 +4456,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 319,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Minnesota",
@@ -4470,7 +4470,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 320,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi",
@@ -4484,7 +4484,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 321,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi State",
@@ -4498,7 +4498,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 322,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada-Las Vegas",
@@ -4512,7 +4512,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 323,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico",
@@ -4526,7 +4526,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 324,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nicholls State",
@@ -4540,7 +4540,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 325,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina State",
@@ -4554,7 +4554,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 326,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -4568,7 +4568,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 327,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern",
@@ -4582,7 +4582,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 328,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio State",
@@ -4596,7 +4596,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 329,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rutgers",
@@ -4610,7 +4610,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 330,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Alabama",
@@ -4624,7 +4624,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 331,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern California",
@@ -4638,7 +4638,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 332,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Methodist",
@@ -4652,7 +4652,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 333,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stanford",
@@ -4666,7 +4666,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 334,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Tech",
@@ -4680,7 +4680,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 335,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -4694,7 +4694,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 336,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Towson",
@@ -4708,7 +4708,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 337,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "UCLA",
@@ -4722,7 +4722,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 338,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia",
@@ -4736,7 +4736,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 339,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wake Forest",
@@ -4750,7 +4750,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 340,
         "wk": 6,
-        "date": "Sep 28 2019",
+        "date": "Sep 28 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington State",
@@ -4764,7 +4764,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 341,
         "wk": 7,
-        "date": "Oct 3 2019",
+        "date": "Oct 3 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Georgia Southern",
@@ -4778,7 +4778,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 342,
         "wk": 7,
-        "date": "Oct 3 2019",
+        "date": "Oct 3 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Temple",
@@ -4792,7 +4792,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 343,
         "wk": 7,
-        "date": "Oct 4 2019",
+        "date": "Oct 4 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Central Florida",
@@ -4806,7 +4806,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 344,
         "wk": 7,
-        "date": "Oct 4 2019",
+        "date": "Oct 4 ",
         "time": "9:00 PM",
         "day": "Fri",
         "awayTeam": "New Mexico",
@@ -4820,7 +4820,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 345,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Air Force",
@@ -4834,7 +4834,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 346,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona",
@@ -4848,7 +4848,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 347,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -4862,7 +4862,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 348,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Auburn",
@@ -4876,7 +4876,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 349,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ball State",
@@ -4890,7 +4890,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 350,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Baylor",
@@ -4904,7 +4904,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 351,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "Boise State",
@@ -4918,7 +4918,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 352,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -4932,7 +4932,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 353,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bowling Green State",
@@ -4946,7 +4946,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 354,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -4960,7 +4960,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 355,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Michigan",
@@ -4974,7 +4974,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 356,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia",
@@ -4988,7 +4988,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 357,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois",
@@ -5002,7 +5002,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 358,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa",
@@ -5016,7 +5016,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 359,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kent State",
@@ -5030,7 +5030,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 360,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -5044,7 +5044,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 361,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Marshall",
@@ -5058,7 +5058,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 362,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -5072,7 +5072,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 363,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Massachusetts",
@@ -5086,7 +5086,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 364,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -5100,7 +5100,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 365,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan State",
@@ -5114,7 +5114,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 366,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina",
@@ -5128,7 +5128,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 367,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern",
@@ -5142,7 +5142,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 368,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio",
@@ -5156,7 +5156,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 369,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -5170,7 +5170,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 370,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma State",
@@ -5184,7 +5184,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 371,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -5198,7 +5198,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 372,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Pittsburgh",
@@ -5212,7 +5212,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 373,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Purdue",
@@ -5226,7 +5226,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 374,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rice",
@@ -5240,7 +5240,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 375,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -5254,7 +5254,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 376,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Florida",
@@ -5268,7 +5268,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 377,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas",
@@ -5282,7 +5282,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 378,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -5296,7 +5296,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 379,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -5310,7 +5310,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 380,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -5324,7 +5324,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 381,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -5338,7 +5338,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 382,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulsa",
@@ -5352,7 +5352,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 383,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah State",
@@ -5366,7 +5366,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 384,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Vanderbilt",
@@ -5380,7 +5380,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 385,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Tech",
@@ -5394,7 +5394,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 386,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington",
@@ -5408,7 +5408,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 387,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Kentucky",
@@ -5422,7 +5422,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 388,
         "wk": 7,
-        "date": "Oct 5 2019",
+        "date": "Oct 5 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Michigan",
@@ -5436,7 +5436,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 389,
         "wk": 8,
-        "date": "Oct 9 2019",
+        "date": "Oct 9 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Appalachian State",
@@ -5450,7 +5450,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 390,
         "wk": 8,
-        "date": "Oct 10 2019",
+        "date": "Oct 10 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Louisiana-Monroe",
@@ -5464,7 +5464,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 391,
         "wk": 8,
-        "date": "Oct 10 2019",
+        "date": "Oct 10 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Syracuse",
@@ -5478,7 +5478,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 392,
         "wk": 8,
-        "date": "Oct 11 2019",
+        "date": "Oct 11 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Colorado",
@@ -5492,7 +5492,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 393,
         "wk": 8,
-        "date": "Oct 11 2019",
+        "date": "Oct 11 ",
         "time": "7:00 PM",
         "day": "Fri",
         "awayTeam": "Colorado State",
@@ -5506,7 +5506,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 394,
         "wk": 8,
-        "date": "Oct 11 2019",
+        "date": "Oct 11 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Virginia",
@@ -5520,7 +5520,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 395,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama",
@@ -5534,7 +5534,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 396,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -5548,7 +5548,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 397,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas",
@@ -5562,7 +5562,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 398,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -5576,7 +5576,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 399,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ball State",
@@ -5590,7 +5590,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 400,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -5604,7 +5604,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 401,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -5618,7 +5618,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 402,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cincinnati",
@@ -5632,7 +5632,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 403,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -5646,7 +5646,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 404,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -5660,7 +5660,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 405,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida State",
@@ -5674,7 +5674,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 406,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "6:00 PM",
         "day": "Sat",
         "awayTeam": "Fresno State",
@@ -5688,7 +5688,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 407,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -5702,7 +5702,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 408,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Tech",
@@ -5716,7 +5716,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 409,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hawaii",
@@ -5730,7 +5730,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 410,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa State",
@@ -5744,7 +5744,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 411,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kent State",
@@ -5758,7 +5758,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 412,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -5772,7 +5772,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 413,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -5786,7 +5786,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 414,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Massachusetts",
@@ -5800,7 +5800,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 415,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -5814,7 +5814,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 416,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (OH)",
@@ -5828,7 +5828,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 417,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan",
@@ -5842,7 +5842,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 418,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan State",
@@ -5856,7 +5856,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 419,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -5870,7 +5870,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 420,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi",
@@ -5884,7 +5884,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 421,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi State",
@@ -5898,7 +5898,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 422,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Navy",
@@ -5912,7 +5912,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 423,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nebraska",
@@ -5926,7 +5926,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 424,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada-Las Vegas",
@@ -5940,7 +5940,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 425,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -5954,7 +5954,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 426,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -5968,7 +5968,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 427,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -5982,7 +5982,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 428,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -5996,7 +5996,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 429,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -6010,7 +6010,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 430,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Penn State",
@@ -6024,7 +6024,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 431,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rhode Island",
@@ -6038,7 +6038,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 432,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rutgers",
@@ -6052,7 +6052,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 433,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Jose State",
@@ -6066,7 +6066,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 434,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Carolina",
@@ -6080,7 +6080,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 435,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern California",
@@ -6094,7 +6094,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 436,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Tech",
@@ -6108,7 +6108,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 437,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Toledo",
@@ -6122,7 +6122,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 438,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah",
@@ -6136,7 +6136,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 439,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington",
@@ -6150,7 +6150,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 440,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington State",
@@ -6164,7 +6164,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 441,
         "wk": 8,
-        "date": "Oct 12 2019",
+        "date": "Oct 12 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -6178,7 +6178,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 442,
         "wk": 9,
-        "date": "Oct 16 2019",
+        "date": "Oct 16 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "South Alabama",
@@ -6192,7 +6192,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 443,
         "wk": 9,
-        "date": "Oct 17 2019",
+        "date": "Oct 17 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Louisiana",
@@ -6206,7 +6206,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 444,
         "wk": 9,
-        "date": "Oct 17 2019",
+        "date": "Oct 17 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "UCLA",
@@ -6220,7 +6220,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 445,
         "wk": 9,
-        "date": "Oct 18 2019",
+        "date": "Oct 18 ",
         "time": "9:00 PM",
         "day": "Fri",
         "awayTeam": "Nevada-Las Vegas",
@@ -6234,7 +6234,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 446,
         "wk": 9,
-        "date": "Oct 18 2019",
+        "date": "Oct 18 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Ohio State",
@@ -6248,7 +6248,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 447,
         "wk": 9,
-        "date": "Oct 18 2019",
+        "date": "Oct 18 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Pittsburgh",
@@ -6262,7 +6262,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 448,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "10:00 PM",
         "day": "Sat",
         "awayTeam": "Air Force",
@@ -6276,7 +6276,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 449,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona",
@@ -6290,7 +6290,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 450,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona State",
@@ -6304,7 +6304,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 451,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -6318,7 +6318,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 452,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Auburn",
@@ -6332,7 +6332,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 453,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Baylor",
@@ -6346,7 +6346,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 454,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boise State",
@@ -6360,7 +6360,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 455,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Buffalo",
@@ -6374,7 +6374,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 456,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -6388,7 +6388,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 457,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -6402,7 +6402,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 458,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Clemson",
@@ -6416,7 +6416,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 459,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -6430,7 +6430,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 460,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado",
@@ -6444,7 +6444,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 461,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Duke",
@@ -6458,7 +6458,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 462,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -6472,7 +6472,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 463,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -6486,7 +6486,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 464,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida State",
@@ -6500,7 +6500,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 465,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Tech",
@@ -6514,7 +6514,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 466,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Houston",
@@ -6528,7 +6528,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 467,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana",
@@ -6542,7 +6542,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 468,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa State",
@@ -6556,7 +6556,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 469,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas",
@@ -6570,7 +6570,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 470,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kent State",
@@ -6584,7 +6584,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 471,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kentucky",
@@ -6598,7 +6598,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 472,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana State",
@@ -6612,7 +6612,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 473,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana-Monroe",
@@ -6626,7 +6626,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 474,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maine",
@@ -6640,7 +6640,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 475,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Marshall",
@@ -6654,7 +6654,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 476,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan",
@@ -6668,7 +6668,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 477,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -6682,7 +6682,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 478,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Minnesota",
@@ -6696,7 +6696,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 479,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Missouri",
@@ -6710,7 +6710,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 480,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -6724,7 +6724,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 481,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico",
@@ -6738,7 +6738,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 482,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina",
@@ -6752,7 +6752,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 483,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina State",
@@ -6766,7 +6766,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 484,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -6780,7 +6780,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 485,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -6794,7 +6794,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 486,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon",
@@ -6808,7 +6808,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 487,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -6822,7 +6822,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 488,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Purdue",
@@ -6836,7 +6836,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 489,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rice",
@@ -6850,7 +6850,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 490,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -6864,7 +6864,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 491,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Florida",
@@ -6878,7 +6878,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 492,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -6892,7 +6892,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 493,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Temple",
@@ -6906,7 +6906,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 494,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee",
@@ -6920,7 +6920,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 495,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas A&M",
@@ -6934,7 +6934,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 496,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -6948,7 +6948,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 497,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -6962,7 +6962,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 498,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Toledo",
@@ -6976,7 +6976,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 499,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -6990,7 +6990,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 500,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulsa",
@@ -7004,7 +7004,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 501,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "West Virginia",
@@ -7018,7 +7018,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 502,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Michigan",
@@ -7032,7 +7032,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 503,
         "wk": 9,
-        "date": "Oct 19 2019",
+        "date": "Oct 19 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wisconsin",
@@ -7046,7 +7046,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 504,
         "wk": 10,
-        "date": "Oct 24 2019",
+        "date": "Oct 24 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Southern Methodist",
@@ -7060,7 +7060,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 505,
         "wk": 10,
-        "date": "Oct 25 2019",
+        "date": "Oct 25 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Southern California",
@@ -7074,7 +7074,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 506,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Akron",
@@ -7088,7 +7088,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 507,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Appalachian State",
@@ -7102,7 +7102,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 508,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona",
@@ -7116,7 +7116,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 509,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona State",
@@ -7130,7 +7130,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 510,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas",
@@ -7144,7 +7144,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 511,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Auburn",
@@ -7158,7 +7158,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 512,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -7172,7 +7172,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 513,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Bowling Green State",
@@ -7186,7 +7186,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 514,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -7200,7 +7200,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 515,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Florida",
@@ -7214,7 +7214,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 516,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -7228,7 +7228,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 517,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado State",
@@ -7242,7 +7242,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 518,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -7256,7 +7256,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 519,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Duke",
@@ -7270,7 +7270,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 520,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Eastern Michigan",
@@ -7284,7 +7284,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 521,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -7298,7 +7298,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 522,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida International",
@@ -7312,7 +7312,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 523,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hawaii",
@@ -7326,7 +7326,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 524,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois",
@@ -7340,7 +7340,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 525,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana",
@@ -7354,7 +7354,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 526,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa",
@@ -7368,7 +7368,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 527,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -7382,7 +7382,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 528,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -7396,7 +7396,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 529,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -7410,7 +7410,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 530,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -7424,7 +7424,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 531,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (FL)",
@@ -7438,7 +7438,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 532,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (OH)",
@@ -7452,7 +7452,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 533,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi State",
@@ -7466,7 +7466,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 534,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Missouri",
@@ -7480,7 +7480,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 535,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -7494,7 +7494,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 536,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -7508,7 +7508,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 537,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -7522,7 +7522,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 538,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Notre Dame",
@@ -7536,7 +7536,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 539,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio",
@@ -7550,7 +7550,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 540,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -7564,7 +7564,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 541,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma State",
@@ -7578,7 +7578,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 542,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Penn State",
@@ -7592,7 +7592,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 543,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -7606,7 +7606,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 544,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Jose State",
@@ -7620,7 +7620,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 545,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Carolina",
@@ -7634,7 +7634,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 546,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Florida",
@@ -7648,7 +7648,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 547,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -7662,7 +7662,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 548,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Syracuse",
@@ -7676,7 +7676,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 549,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas",
@@ -7690,7 +7690,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 550,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas State",
@@ -7704,7 +7704,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 551,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Tech",
@@ -7718,7 +7718,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 552,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -7732,7 +7732,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 553,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -7746,7 +7746,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 554,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah State",
@@ -7760,7 +7760,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 555,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia",
@@ -7774,7 +7774,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 556,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington State",
@@ -7788,7 +7788,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 557,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Kentucky",
@@ -7802,7 +7802,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 558,
         "wk": 10,
-        "date": "Oct 26 2019",
+        "date": "Oct 26 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wisconsin",
@@ -7816,7 +7816,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 559,
         "wk": 11,
-        "date": "Oct 31 2019",
+        "date": "Oct 31 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Georgia Southern",
@@ -7830,7 +7830,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 560,
         "wk": 11,
-        "date": "Oct 31 2019",
+        "date": "Oct 31 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "West Virginia",
@@ -7844,7 +7844,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 561,
         "wk": 11,
-        "date": "Nov 1 2019",
+        "date": "Nov 1 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Navy",
@@ -7858,7 +7858,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 562,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Akron",
@@ -7872,7 +7872,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 563,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -7886,7 +7886,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 564,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -7900,7 +7900,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 565,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "2:30 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -7914,7 +7914,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 566,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "9:30 PM",
         "day": "Sat",
         "awayTeam": "Boise State",
@@ -7928,7 +7928,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 567,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -7942,7 +7942,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 568,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -7956,7 +7956,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 569,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Buffalo",
@@ -7970,7 +7970,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 570,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cincinnati",
@@ -7984,7 +7984,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 571,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado",
@@ -7998,7 +7998,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 572,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -8012,7 +8012,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 573,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -8026,7 +8026,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 574,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Fresno State",
@@ -8040,7 +8040,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 575,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Houston",
@@ -8054,7 +8054,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 576,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas State",
@@ -8068,7 +8068,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 577,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -8082,7 +8082,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 578,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Marshall",
@@ -8096,7 +8096,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 579,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (FL)",
@@ -8110,7 +8110,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 580,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan",
@@ -8124,7 +8124,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 581,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -8138,7 +8138,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 582,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi",
@@ -8152,7 +8152,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 583,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mississippi State",
@@ -8166,7 +8166,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 584,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nebraska",
@@ -8180,7 +8180,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 585,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada-Las Vegas",
@@ -8194,7 +8194,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 586,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico",
@@ -8208,7 +8208,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 587,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina State",
@@ -8222,7 +8222,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 588,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northern Illinois",
@@ -8236,7 +8236,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 589,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern",
@@ -8250,7 +8250,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 590,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -8264,7 +8264,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 591,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon",
@@ -8278,7 +8278,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 592,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -8292,7 +8292,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 593,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Pittsburgh",
@@ -8306,7 +8306,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 594,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rutgers",
@@ -8320,7 +8320,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 595,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Methodist",
@@ -8334,7 +8334,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 596,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -8348,7 +8348,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 597,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas State",
@@ -8362,7 +8362,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 598,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -8376,7 +8376,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 599,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -8390,7 +8390,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 600,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -8404,7 +8404,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 601,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulsa",
@@ -8418,7 +8418,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 602,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah",
@@ -8432,7 +8432,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 603,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Vanderbilt",
@@ -8446,7 +8446,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 604,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia",
@@ -8460,7 +8460,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 605,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Tech",
@@ -8474,7 +8474,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 606,
         "wk": 11,
-        "date": "Nov 2 2019",
+        "date": "Nov 2 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wofford",
@@ -8488,7 +8488,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 607,
         "wk": 12,
-        "date": "Nov 5 2019",
+        "date": "Nov 5 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Ball State",
@@ -8502,7 +8502,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 608,
         "wk": 12,
-        "date": "Nov 5 2019",
+        "date": "Nov 5 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Kent State",
@@ -8516,7 +8516,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 609,
         "wk": 12,
-        "date": "Nov 6 2019",
+        "date": "Nov 6 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Miami (OH)",
@@ -8530,7 +8530,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 610,
         "wk": 12,
-        "date": "Nov 7 2019",
+        "date": "Nov 7 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Louisiana",
@@ -8544,7 +8544,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 611,
         "wk": 12,
-        "date": "Nov 7 2019",
+        "date": "Nov 7 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Temple",
@@ -8558,7 +8558,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 612,
         "wk": 12,
-        "date": "Nov 8 2019",
+        "date": "Nov 8 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Central Florida",
@@ -8572,7 +8572,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 613,
         "wk": 12,
-        "date": "Nov 8 2019",
+        "date": "Nov 8 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Washington",
@@ -8586,7 +8586,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 614,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Air Force",
@@ -8600,7 +8600,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 615,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -8614,7 +8614,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 616,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Appalachian State",
@@ -8628,7 +8628,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 617,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Baylor",
@@ -8642,7 +8642,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 618,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -8656,7 +8656,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 619,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Clemson",
@@ -8670,7 +8670,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 620,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -8684,7 +8684,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 621,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -8698,7 +8698,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 622,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida International",
@@ -8712,7 +8712,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 623,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida State",
@@ -8726,7 +8726,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 624,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Southern",
@@ -8740,7 +8740,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 625,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -8754,7 +8754,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 626,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Tech",
@@ -8768,7 +8768,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 627,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois",
@@ -8782,7 +8782,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 628,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa",
@@ -8796,7 +8796,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 629,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa State",
@@ -8810,7 +8810,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 630,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas State",
@@ -8824,7 +8824,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 631,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -8838,7 +8838,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 632,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana State",
@@ -8852,7 +8852,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 633,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -8866,7 +8866,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 634,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -8880,7 +8880,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 635,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Massachusetts",
@@ -8894,7 +8894,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 636,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Missouri",
@@ -8908,7 +8908,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 637,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -8922,7 +8922,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 638,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -8936,7 +8936,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 639,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -8950,7 +8950,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 640,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Notre Dame",
@@ -8964,7 +8964,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 641,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Penn State",
@@ -8978,7 +8978,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 642,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Purdue",
@@ -8992,7 +8992,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 643,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Jose State",
@@ -9006,7 +9006,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 644,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Alabama",
@@ -9020,7 +9020,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 645,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern California",
@@ -9034,7 +9034,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 646,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stanford",
@@ -9048,7 +9048,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 647,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee",
@@ -9062,7 +9062,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 648,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Tech",
@@ -9076,7 +9076,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 649,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -9090,7 +9090,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 650,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "7:00 PM",
         "day": "Sat",
         "awayTeam": "Utah State",
@@ -9104,7 +9104,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 651,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Vanderbilt",
@@ -9118,7 +9118,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 652,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wake Forest",
@@ -9132,7 +9132,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 653,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington State",
@@ -9146,7 +9146,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 654,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Kentucky",
@@ -9160,7 +9160,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 655,
         "wk": 12,
-        "date": "Nov 9 2019",
+        "date": "Nov 9 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -9174,7 +9174,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 656,
         "wk": 13,
-        "date": "Nov 12 2019",
+        "date": "Nov 12 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Eastern Michigan",
@@ -9188,7 +9188,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 657,
         "wk": 13,
-        "date": "Nov 12 2019",
+        "date": "Nov 12 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Western Michigan",
@@ -9202,7 +9202,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 658,
         "wk": 13,
-        "date": "Nov 13 2019",
+        "date": "Nov 13 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Bowling Green State",
@@ -9216,7 +9216,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 659,
         "wk": 13,
-        "date": "Nov 13 2019",
+        "date": "Nov 13 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Northern Illinois",
@@ -9230,7 +9230,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 660,
         "wk": 13,
-        "date": "Nov 14 2019",
+        "date": "Nov 14 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Buffalo",
@@ -9244,7 +9244,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 661,
         "wk": 13,
-        "date": "Nov 14 2019",
+        "date": "Nov 14 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "North Carolina",
@@ -9258,7 +9258,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 662,
         "wk": 13,
-        "date": "Nov 15 2019",
+        "date": "Nov 15 ",
         "time": "9:30 PM",
         "day": "Fri",
         "awayTeam": "Fresno State",
@@ -9272,7 +9272,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 663,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Air Force",
@@ -9286,7 +9286,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 664,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama",
@@ -9300,7 +9300,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 665,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama State",
@@ -9314,7 +9314,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 666,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Appalachian State",
@@ -9328,7 +9328,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 667,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona",
@@ -9342,7 +9342,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 668,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arizona State",
@@ -9356,7 +9356,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 669,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Michigan",
@@ -9370,7 +9370,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 670,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Cincinnati",
@@ -9384,7 +9384,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 671,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -9398,7 +9398,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 672,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida",
@@ -9412,7 +9412,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 673,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia",
@@ -9426,7 +9426,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 674,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Hawaii",
@@ -9440,7 +9440,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 675,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Idaho State",
@@ -9454,7 +9454,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 676,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Incarnate Word",
@@ -9468,7 +9468,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 677,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana",
@@ -9482,7 +9482,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 678,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas",
@@ -9496,7 +9496,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 679,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kentucky",
@@ -9510,7 +9510,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 680,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana",
@@ -9524,7 +9524,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 681,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana State",
@@ -9538,7 +9538,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 682,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -9552,7 +9552,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 683,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana-Monroe",
@@ -9566,7 +9566,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 684,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -9580,7 +9580,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 685,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Massachusetts",
@@ -9594,7 +9594,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 686,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -9608,7 +9608,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 687,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan State",
@@ -9622,7 +9622,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 688,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Minnesota",
@@ -9636,7 +9636,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 689,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Navy",
@@ -9650,7 +9650,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 690,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico",
@@ -9664,7 +9664,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 691,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio State",
@@ -9678,7 +9678,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 692,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -9692,7 +9692,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 693,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rice",
@@ -9706,7 +9706,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 694,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Carolina",
@@ -9720,7 +9720,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 695,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern California",
@@ -9734,7 +9734,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 696,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -9748,7 +9748,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 697,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Stanford",
@@ -9762,7 +9762,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 698,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Syracuse",
@@ -9776,7 +9776,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 699,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas",
@@ -9790,7 +9790,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 700,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -9804,7 +9804,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 701,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -9818,7 +9818,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 702,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -9832,7 +9832,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 703,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -9846,7 +9846,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 704,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "UCLA",
@@ -9860,7 +9860,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 705,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Military Institute",
@@ -9874,7 +9874,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 706,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Virginia Tech",
@@ -9888,7 +9888,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 707,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wake Forest",
@@ -9902,7 +9902,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 708,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "West Virginia",
@@ -9916,7 +9916,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 709,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wisconsin",
@@ -9930,7 +9930,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 710,
         "wk": 13,
-        "date": "Nov 16 2019",
+        "date": "Nov 16 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -9944,7 +9944,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 711,
         "wk": 14,
-        "date": "Nov 19 2019",
+        "date": "Nov 19 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Eastern Michigan",
@@ -9958,7 +9958,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 712,
         "wk": 14,
-        "date": "Nov 19 2019",
+        "date": "Nov 19 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Ohio",
@@ -9972,7 +9972,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 713,
         "wk": 14,
-        "date": "Nov 20 2019",
+        "date": "Nov 20 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Akron",
@@ -9986,7 +9986,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 714,
         "wk": 14,
-        "date": "Nov 20 2019",
+        "date": "Nov 20 ",
         "time": "12:00 PM",
         "day": "Wed",
         "awayTeam": "Toledo",
@@ -10000,7 +10000,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 715,
         "wk": 14,
-        "date": "Nov 21 2019",
+        "date": "Nov 21 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "North Carolina State",
@@ -10014,7 +10014,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 716,
         "wk": 14,
-        "date": "Nov 22 2019",
+        "date": "Nov 22 ",
         "time": "9:30 PM",
         "day": "Fri",
         "awayTeam": "Colorado State",
@@ -10028,7 +10028,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 717,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Abilene Christian",
@@ -10042,7 +10042,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 718,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas",
@@ -10056,7 +10056,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 719,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ball State",
@@ -10070,7 +10070,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 720,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "10:30 PM",
         "day": "Sat",
         "awayTeam": "Boise State",
@@ -10084,7 +10084,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 721,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -10098,7 +10098,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 722,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -10112,7 +10112,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 723,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -10126,7 +10126,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 724,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Central Florida",
@@ -10140,7 +10140,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 725,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Coastal Carolina",
@@ -10154,7 +10154,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 726,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Duke",
@@ -10168,7 +10168,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 727,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Carolina",
@@ -10182,7 +10182,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 728,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "East Tennessee State",
@@ -10196,7 +10196,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 729,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida Atlantic",
@@ -10210,7 +10210,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 730,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia Southern",
@@ -10224,7 +10224,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 731,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Houston",
@@ -10238,7 +10238,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 732,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Illinois",
@@ -10252,7 +10252,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 733,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas",
@@ -10266,7 +10266,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 734,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Kansas State",
@@ -10280,7 +10280,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 735,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Liberty",
@@ -10294,7 +10294,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 736,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana Tech",
@@ -10308,7 +10308,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 737,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Marshall",
@@ -10322,7 +10322,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 738,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Memphis",
@@ -10336,7 +10336,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 739,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Mercer",
@@ -10350,7 +10350,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 740,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (FL)",
@@ -10364,7 +10364,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 741,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan",
@@ -10378,7 +10378,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 742,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Michigan State",
@@ -10392,7 +10392,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 743,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Minnesota",
@@ -10406,7 +10406,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 744,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nebraska",
@@ -10420,7 +10420,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 745,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada",
@@ -10434,7 +10434,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 746,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Texas",
@@ -10448,7 +10448,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 747,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma State",
@@ -10462,7 +10462,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 748,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Old Dominion",
@@ -10476,7 +10476,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 749,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon",
@@ -10490,7 +10490,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 750,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -10504,7 +10504,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 751,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Penn State",
@@ -10518,7 +10518,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 752,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Pittsburgh",
@@ -10532,7 +10532,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 753,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Purdue",
@@ -10546,7 +10546,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 754,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Samford",
@@ -10560,7 +10560,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 755,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Diego State",
@@ -10574,7 +10574,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 756,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "San Jose State",
@@ -10588,7 +10588,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 757,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "South Alabama",
@@ -10602,7 +10602,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 758,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Methodist",
@@ -10616,7 +10616,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 759,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Syracuse",
@@ -10630,7 +10630,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 760,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Temple",
@@ -10644,7 +10644,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 761,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee",
@@ -10658,7 +10658,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 762,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tennessee-Martin",
@@ -10672,7 +10672,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 763,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas",
@@ -10686,7 +10686,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 764,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas A&M",
@@ -10700,7 +10700,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 765,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas Christian",
@@ -10714,7 +10714,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 766,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas State",
@@ -10728,7 +10728,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 767,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-El Paso",
@@ -10742,7 +10742,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 768,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Troy",
@@ -10756,7 +10756,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 769,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "UCLA",
@@ -10770,7 +10770,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 770,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah",
@@ -10784,7 +10784,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 771,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Washington",
@@ -10798,7 +10798,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 772,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Carolina",
@@ -10812,7 +10812,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 773,
         "wk": 14,
-        "date": "Nov 23 2019",
+        "date": "Nov 23 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Western Kentucky",
@@ -10826,7 +10826,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 774,
         "wk": 15,
-        "date": "Nov 26 2019",
+        "date": "Nov 26 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Ohio",
@@ -10840,7 +10840,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 775,
         "wk": 15,
-        "date": "Nov 26 2019",
+        "date": "Nov 26 ",
         "time": "12:00 PM",
         "day": "Tue",
         "awayTeam": "Western Michigan",
@@ -10854,7 +10854,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 776,
         "wk": 15,
-        "date": "Nov 28 2019",
+        "date": "Nov 28 ",
         "time": "12:00 PM",
         "day": "Thu",
         "awayTeam": "Mississippi",
@@ -10868,7 +10868,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 777,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Arizona",
@@ -10882,7 +10882,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 778,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "3:30 PM",
         "day": "Fri",
         "awayTeam": "Boise State",
@@ -10896,7 +10896,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 779,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Bowling Green State",
@@ -10910,7 +10910,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 780,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Cincinnati",
@@ -10924,7 +10924,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 781,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Iowa",
@@ -10938,7 +10938,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 782,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Kent State",
@@ -10952,7 +10952,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 783,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Miami (OH)",
@@ -10966,7 +10966,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 784,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "South Florida",
@@ -10980,7 +10980,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 785,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Texas Tech",
@@ -10994,7 +10994,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 786,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Toledo",
@@ -11008,7 +11008,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 787,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Virginia Tech",
@@ -11022,7 +11022,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 788,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "Washington State",
@@ -11036,7 +11036,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 789,
         "wk": 15,
-        "date": "Nov 29 2019",
+        "date": "Nov 29 ",
         "time": "12:00 PM",
         "day": "Fri",
         "awayTeam": "West Virginia",
@@ -11050,7 +11050,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 790,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama",
@@ -11064,7 +11064,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 791,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Alabama-Birmingham",
@@ -11078,7 +11078,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 792,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Appalachian State",
@@ -11092,7 +11092,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 793,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Arkansas State",
@@ -11106,7 +11106,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 794,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "11:59 PM",
         "day": "Sat",
         "awayTeam": "Army",
@@ -11120,7 +11120,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 795,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Baylor",
@@ -11134,7 +11134,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 796,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Boston College",
@@ -11148,7 +11148,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 797,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "9:00 PM",
         "day": "Sat",
         "awayTeam": "Brigham Young",
@@ -11162,7 +11162,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 798,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "California",
@@ -11176,7 +11176,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 799,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Charlotte",
@@ -11190,7 +11190,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 800,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Clemson",
@@ -11204,7 +11204,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 801,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Colorado",
@@ -11218,7 +11218,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 802,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Connecticut",
@@ -11232,7 +11232,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 803,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida International",
@@ -11246,7 +11246,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 804,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Florida State",
@@ -11260,7 +11260,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 805,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Fresno State",
@@ -11274,7 +11274,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 806,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia",
@@ -11288,7 +11288,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 807,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Georgia State",
@@ -11302,7 +11302,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 808,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Indiana",
@@ -11316,7 +11316,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 809,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Iowa State",
@@ -11330,7 +11330,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 810,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisiana-Monroe",
@@ -11344,7 +11344,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 811,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Louisville",
@@ -11358,7 +11358,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 812,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Maryland",
@@ -11372,7 +11372,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 813,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Miami (FL)",
@@ -11386,7 +11386,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 814,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Middle Tennessee State",
@@ -11400,7 +11400,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 815,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Missouri",
@@ -11414,7 +11414,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 816,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Navy",
@@ -11428,7 +11428,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 817,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Nevada-Las Vegas",
@@ -11442,7 +11442,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 818,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "New Mexico State",
@@ -11456,7 +11456,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 819,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "North Carolina",
@@ -11470,7 +11470,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 820,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Northwestern",
@@ -11484,7 +11484,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 821,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Notre Dame",
@@ -11498,7 +11498,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 822,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Ohio State",
@@ -11512,7 +11512,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 823,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oklahoma",
@@ -11526,7 +11526,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 824,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Oregon State",
@@ -11540,7 +11540,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 825,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rice",
@@ -11554,7 +11554,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 826,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Rutgers",
@@ -11568,7 +11568,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 827,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Southern Mississippi",
@@ -11582,7 +11582,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 828,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas A&M",
@@ -11596,7 +11596,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 829,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas State",
@@ -11610,7 +11610,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 830,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Texas-San Antonio",
@@ -11624,7 +11624,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 831,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulane",
@@ -11638,7 +11638,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 832,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Tulsa",
@@ -11652,7 +11652,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 833,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Utah State",
@@ -11666,7 +11666,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 834,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Vanderbilt",
@@ -11680,7 +11680,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 835,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wake Forest",
@@ -11694,7 +11694,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 836,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wisconsin",
@@ -11708,7 +11708,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 837,
         "wk": 15,
-        "date": "Nov 30 2019",
+        "date": "Nov 30 ",
         "time": "12:00 PM",
         "day": "Sat",
         "awayTeam": "Wyoming",
@@ -11722,7 +11722,7 @@ export const SCHEDULE: Schedule[] = [
     {
         "rk": 838,
         "wk": 16,
-        "date": "Dec 14 2019",
+        "date": "Dec 14 ",
         "time": "3:00 PM",
         "day": "Sat",
         "awayTeam": "Army",
