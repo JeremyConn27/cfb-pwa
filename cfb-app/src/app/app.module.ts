@@ -12,7 +12,7 @@ import { HomeComponent } from './home/home.component';
 import { ScheduleComponent } from './schedule/schedule.component';
 import { DocsComponent } from './docs/docs.component';
 import { HistoryComponent } from './history/history.component';
-
+import { ScheduleService } from './schedule.service';
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +30,7 @@ import { HistoryComponent } from './history/history.component';
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
-  providers: [],
+  providers: [ScheduleService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
