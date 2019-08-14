@@ -18,4 +18,7 @@ export class ScheduleComponent implements OnInit {
   getGames(): void {
     this.games = this.scheduleService.getSchedule();
   }
+  show(){
+    alert('Button Clicked!');
+  }
 }
