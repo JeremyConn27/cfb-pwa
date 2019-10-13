@@ -70,10 +70,10 @@
     background: #313132;
 }
 
-body{font-family: 'SF UI Display Semibold', Arial, Helvetica, sans-serif; font-size: 16px; background: #07070a; color: #fff; min-height: 100vh; padding: 85px 40px 100px 40px;}
+body{font-family: 'SF UI Display Semibold', Arial, Helvetica, sans-serif; font-size: 16px; background: #07070a; color: #fff; min-height: 100vh; padding: 25px 40px 100px 40px;}
 main{position: relative;}
-h1{font-family: 'SF UI Display Bold'; font-size: 42px; letter-spacing: .5px; text-shadow: 1px 1px 8px #000; text-align: left; margin: 0 0 60px 0; will-change: transform; transition: .35s ease-in-out;
-    //&.stuck{position: sticky; top: 42px; transform: translate(-70px, -21px); font-size: 21px; margin: 0; z-index: 10000;}
+h1{font-family: 'SF UI Display Bold'; font-size: 42px; letter-spacing: .5px; text-shadow: 1px 1px 8px #000; text-align: left; background: transparent; margin: 0 -40px 40px -40px; padding: 20px 40px; position: sticky; top: 0px; will-change: transform; transition: .35s ease-in-out;
+    &.stuck{font-size: 36px; margin: 0 -40px 0 -40px; background-color: rgba(0,0,0,.85); backdrop-filter: blur(8px); z-index: 10000;}
 }
 button{all: unset; display: flex; flex-direction: row; justify-content: center; align-items: center; background: transparent; color: #92b4ef; font-family: 'SF UI Display Bold'; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; outline: none; border: 2px solid #92b4ef; border-radius: 30px; flex: 0 1 0; width: auto; padding: 12px 30px; text-decoration: none; box-shadow: none; margin: 12px 0; transition: .2s ease-in-out;
     &:hover{background: #92b4ef; color: #0C0C14; cursor: pointer;}
@@ -83,10 +83,16 @@ button{all: unset; display: flex; flex-direction: row; justify-content: center; 
 
 
 @media screen and (max-width: 876px){
-    body{padding: 85px 20px 100px 20px;}
-    h1{font-size: 38px;}
+    body{padding: 25px 20px 100px 20px;}
+    h1{font-size: 38px; margin: 0 -20px 40px -20px; padding: 20px;
+        &.stuck{font-size: 28px; margin: 0 -20px 0 -20px;}
+    }
+
+
 }
 
 @media screen and (max-width: 475px){
-    h1{font-size: 34px;}
+    h1{font-size: 34px;
+        &.stuck{font-size: 26px;}
+    }
 }
