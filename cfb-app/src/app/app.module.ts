@@ -13,6 +13,7 @@ import { ScheduleComponent } from './schedule/schedule.component';
 import { DocsComponent } from './docs/docs.component';
 import { HistoryComponent } from './history/history.component';
 import { ScheduleService } from './schedule.service';
+import { SettingsComponent } from './settings/settings.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,7 +22,8 @@ import { ScheduleService } from './schedule.service';
     HomeComponent,
     ScheduleComponent,
     DocsComponent,
-    HistoryComponent
+    HistoryComponent,
+    SettingsComponent
   ],
   imports: [
     BrowserModule,

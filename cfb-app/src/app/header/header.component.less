@@ -1,8 +1,9 @@
 header{display: flex; flex-direction: row; justify-content: flex-end; align-items: center; width: 100%; height: 124px; padding: 0 40px; background: transparent; position: absolute; top: 0; left: 0; z-index: 1000; transition: .25s ease-in-out;
-    .profile-picture{display: flex; flex-shrink: 0; flex-grow: 0; width: 36px; height: 36px; border: 2px solid #515164; border-radius: 100%; background: #515164; position: relative; overflow: hidden;
+    .profile-picture{display: flex; flex-shrink: 0; flex-grow: 0; width: 36px; height: 36px; border: 2px solid #515164; border-radius: 100%; background: #515164; position: relative; overflow: hidden;  transition: .25s ease-in-out; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-tap-highlight-color: transparent;
         picture{width: 100%; height: 100%;
             img{width: 100%; height: 100%; object-fit: cover;}
         }
+        &.active{border-color: #595ed8;}
     }
     &.stuck{position: fixed; padding: 0 20px 0 5px; height: 66px; z-index: 100000;
         .profile-picture{z-index: 100000;}
