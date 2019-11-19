@@ -6,11 +6,19 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./history.component.less'],
 
 })
+
 export class HistoryComponent implements OnInit {
+  twentyNineteenSzn: [{
+    
+  }];
 
   constructor() { }
 
   ngOnInit() {
+
   }
+
+
+
 
 }
