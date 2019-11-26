@@ -30,7 +30,17 @@ export class AppComponent implements OnInit, AfterViewInit {
     }
   }
   });
+  let gyroscope = new Gyroscope({frequency: 60});
 
+  gyroscope.addEventListener('reading', e => {
+    if(gyroscope.y = 500){
+      alert("Device is moving up and down");
+      
+    }
+    console.log("Angular velocity along the Y-axis " + gyroscope.y);
+    console.log("Angular velocity along the Z-axis " + gyroscope.z);
+  });
+  gyroscope.start();
 
   constructor() {}
 
