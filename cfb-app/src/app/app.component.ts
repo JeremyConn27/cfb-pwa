@@ -16,6 +16,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   title = 'cfb-app';
   el: any;
   elTwo: any;
+  
   observer = new IntersectionObserver(entries => {
   console.log(entries);
   if (entries[0].boundingClientRect.top < 0) {
@@ -31,7 +32,21 @@ export class AppComponent implements OnInit, AfterViewInit {
   }
   });
 
-  constructor() {}
+  constructor(Gyroscope) {
+
+    let gyroscope = new Gyroscope({frequency: 60});
+
+  gyroscope.addEventListener('reading', e => {
+    if(gyroscope.y = 500){
+      alert("Device is moving up and down");
+      
+    }
+    console.log("Angular velocity along the Y-axis " + gyroscope.y);
+    console.log("Angular velocity along the Z-axis " + gyroscope.z);
+  });
+  gyroscope.start();
+
+  }
 
   ngAfterViewInit() {
     this.el = document.getElementsByClassName('animated');
@@ -45,16 +60,5 @@ export class AppComponent implements OnInit, AfterViewInit {
   prepareRoute(outlet: RouterOutlet) {
     return outlet && outlet.activatedRouteData && outlet.activatedRouteData['animation'];
   }
-  let gyroscope = new Gyroscope({frequency: 60});
-
-  gyroscope.addEventListener('reading', e => {
-    if(gyroscope.y = 500){
-      alert("Device is moving up and down");
-      
-    }
-    console.log("Angular velocity along the Y-axis " + gyroscope.y);
-    console.log("Angular velocity along the Z-axis " + gyroscope.z);
-  });
-  gyroscope.start();
 }
 
